@@ -1,4 +1,4 @@
-# Kuwala_Google_POI_coding_challenge
+# Kuwala Google POI coding challenge.
 
 This is my solution to the Kuwala Google POI coding challenge.
 
