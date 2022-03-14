@@ -1,0 +1,810 @@
+osm_type;osm_id;internal_id;query
+way;154470603;0x130e44cd6e20475f:0x671441b8dc03be60;Kalkara
+node;5896564791;0x130e45014da2fa03:0xf743a120b9194c06;Spar, Triq Tigné
+node;2471609507;0x130e4501edfb329b:0x9edcdba888218c47;Bayview Hotel & Apartments, The Strand 143, Sliema
+node;6222651588;0x130e450a6e7438bd:0x5af47e8f69212d52;David Hardware Store, Triq Carlo Manche
+node;6635172974;0x130e451ad5f0c673:0x1973502978d5c025;Chef Lee, Triq d'Argens
+relation;12634993;0x130e451d009c771d:0x1cf6ec5b812ebc75;Consulate General of Austria, Vjal Sir Temi Zammit 8, XBX 1011, Ta' Xbiex
+node;7442975758;0x130e451fb816909b:0xd8a592326a69a444;111 Art Gallery, Triq il-Gnien 38/40, GZR1411, Gzira
+way;532280196;0x130e4524d863accb:0x59b5320a6f75ae7b;Triq Tigné
+node;6762940584;0x130e4525313284cd:0x74fab348121af42f;HB mini market, Mattew Pulis Street, Sliema
+way;339461449;0x130e4525391b83bd:0x8e64cfd286b0304a;Rocca Nettuno Suites, Mattew Pulis Street, SLM 3052, Sliema
+node;4520210790;0x130e4525449b1c9b:0xc30141cdbc076c0b;Bonavia Offset Printers, Ix-Xatt ta' Tigné
+node;6652710861;0x130e45256229dd63:0xba4f9dfa3c3a1be5;Balance Bowl, Triq Ix-Xatt 182
+node;6029375986;0x130e4525648b1189:0x8450119c56aa52ae;Terrace Restaurant Sliema, Ix-Xatt ta' Tigné
+node;5895898460;0x130e4525a369b70b:0x97db04184cc49842;Cibo, Piazza Tigné
+node;6586848918;0x130e4525bf41cc0b:0x4991ff29c2de2b0f;Medirect Bank, Tigné Point
+way;552460832;0x130e4525c08821e7:0xfd04990cc39f6023;The Centre, Pjazza Tigné, TPO 0001, Tas-Sliema
+way;279285695;0x130e45281d8647c5:0x745ad38ee242c917;Valletta
+node;7837644686;0x130e45295846ccc1:0xac677a191ebb463f;Di Carafa, Triq l-Ifran
+node;5056882129;0x130e4529d6bd8bf9:0x9414dd60422fd879;St Elmo Bastion, Mediterranean Street, Valletta
+node;5420985023;0x130e452a1b8f40f3:0xa794cd316ad426a7;Entrance Holy Infirmary, Triq l-Isptar, VLT 1645
+node;4344290323;0x130e452a28c84043:0xfb630125479dcb9c;Elia Greek Cuisine, Merchant Steet 73
+node;2803079339;0x130e452a2f229afd:0xc9792ad7fa2cb56d;Russian Cultural Centre, Triq il-Merkanti 36, Valletta
+node;4344230293;0x130e452a33ef23e5:0x7704fa4b63525d64;Nenu The Artisan Baker, St. Dominic Street 143
+node;4485100698;0x130e452a37c5225b:0x5b3ba2a35595bfd0;A Modo Mio, St. Dominic Street 9
+node;5643807921;0x130e452a68074041:0xec17deceef42f2b7;Valletta St. Paul’s AFT, Triq il-Mediterran
+node;4502588191;0x130e452b5106ec25:0x186ba7fecf58a6c0;IMS Ltd, Triq L Zamenhof
+way;55064408;0x130e452b5e2e0531:0x5fa8dd8238dbdda;Ta' Giezu Church, St. Ursula Street, Valletta
+node;6594723085;0x130e452b78a28857:0x1815439193f606a3;Bottega, Triq il-Merkanti 200
+node;4487387089;0x130e452b78c8a76f:0xebd4cc4b86631a56;The Submarine, Triq Il-Merkanti 43
+node;5041166921;0x130e452b7de383e1:0xac21e5c0dea94e62;LaPira Maltese Kitchen, Triq il-Merkanti 35
+node;5107239721;0x130e452b9e9e6ec3:0x7c7f127eb83fc9b7;Lot Sixty One, old theatre street
+way;31232775;0x130e452b9f345ae7:0x607f3a89002bd73b;Is-Suq Tal-Belt, Triq il-Merkanti, Valletta
+node;5660926721;0x130e452b9fee8ae3:0x5883140c56f25a4b;Paulos Valetta, Triq San Pawl 237
+node;7815132785;0x130e452ba43b7e4d:0x8a159e865cbc8714;Beati Paoli Restaurant, Triq San Pawl 240
+node;2471616059;0x130e452bac86bcf9:0x6edb45afe04cef3d;Luciano Al Porto Boutique, St. Ursula Street 255, 1111, Valletta
+node;6621238959;0x130e452bad2dec77:0xca272279967b191a;Palazzo Consiglia, Triq Saint Ursula 102
+node;4437361510;0x130e452baf36e9e3:0xadc455deae33dd1c;Uptown Mini Market, Archbishop Street 12
+node;2471616058;0x130e452bb7b7f60d:0x352ddc7390d2a56f;Luciano Valletta Boutique, Merchants Street 21, 1010, Vallettaa
+node;5084247925;0x130e452bb8e66aa7:0xad45f4775deeabbe;The Saint John, Triq il-Merkanti 176
+node;5084236525;0x130e452bb8fb74d5:0x20d64ac17301d6d9;Cheeky Monkey Gastropub, Triq il-Merkanti 175
+node;837347119;0x130e452bb91e16c5:0xd9bf7ca5ec1b6123;La Mère, Merchant st 174
+node;5095181824;0x130e452bb97510b1:0xb593b5f456b31206;Tuk tuk, Triq il-Merkanti 174, VLT 1174
+node;837638770;0x130e452bbf00ed6d:0x1c26b325683b33f5;The Pub, Triq l-Arcisqof 136
+node;4692258789;0x130e452bd621ab85:0x3c4f34e8cd1c7caf;Gugar Hangout & Bar, Triq ir-Repubblika 89
+way;33506558;0x130e452bd7466203:0xe90c79e40e64ff6b;Casa Rocca Piccola, Republic Street 74, VLT 05, Valletta
+node;387211864;0x130e452be9558a67:0x24a0415c17bdd953;Margo's, Republic Street, Valletta
+node;7800564286;0x130e452beeaf5631:0xff2b189775c5b0fe;Triq l-Arċisqof
+node;5484418621;0x130e452bfa99a8cf:0x646d1b61259ddfbe;Aaron's Kitchen, Strait Street
+node;4262863432;0x130e452c0af4cc6b:0xa4b0115c9d82e27b;Yard 32 Gin & Tapas Bar, Strait Street 32, Valletta
+node;3257222384;0x130e452c0e862a6b:0x91d9f0bf1787d5cf;67 Kapitali, Triq l-Ifran 67
+node;6366690586;0x130e452c100f0453:0xe2ed20575bb42a4c;Taproom, Triq tat-Teatru l-Antik 53a
+node;2515143942;0x130e452c434c1693:0xf496d0a6dc3d6a47;Fenech & Fenech Advocates, Old Bakery Street 198, VLT 1455, Valletta
+node;2515143943;0x130e452c5ca839ef:0x8350c21f0515802d;Fenlex Corporate Services, St. John's Street 85, VLT 1165, Valletta
+node;5608745259;0x130e452c608631e1:0x93984bd1afcf7e88;D'Amato Records, Triq San Ġwann 98
+node;3562202756;0x130e452c6a18d209:0x803cfc3b679ae3c3;Capt. A. Caruana, Triq l-Ifran 186, Valletta
+node;4910243623;0x130e452c6de66a1f:0xd57a6e8d56d8653b;Palazzo Preca Restaurant, Strait Street 54
+node;5086797121;0x130e452c6e948a8b:0x97581ca2c3a8af22;Wild Honey, Triq Santa Luċija 127
+node;3354224381;0x130e452c6fe6e9d3:0xb4f3f44b72c27ea5;Agenda Bookshop, Triq ir-Repubblika, Valletta
+node;7190224600;0x130e452c7bbbbcf1:0xb1bedafc79138cb5;Treasures by Inspire, Triq il-Qaliet, Marsaskala
+way;23352829;0x130e452c8056706d:0x679f27f1631ed8cf;St. John's Co-Cathedral, Triq San Ġwann, VLT 10, Valletta
+node;4857758427;0x130e452c82171b8d:0xbd83fc344f2b874a;HSBC, Triq il-Merkanti 32, VLT 1173
+node;2471612970;0x130e452c8ad9bdff:0xf19d98b6077ba86b;King's Own Band Club Bar & Restaurant, Triq Ir-Repubblika, 1112, Valletta
+node;2471403243;0x130e452c8f05cc81:0xaa0ea7d9e1bb607;San Giovanni, St. John's Square, Valletta
+node;5097073246;0x130e452c92e2f92b:0xad9766e47a4d6aa5;Reno's Caffe, Triq San Żakkarija 10
+node;4446726489;0x130e452c9eeb21eb:0x3826d09ea44f52af;Vino's Café Bar, Triq San Gwann 19
+node;3756907165;0x130e452cbaf08fdf:0x60bcb8620bad68d7;MCVS, Melita Street 181, VLT1129, Valletta
+node;4475397790;0x130e452cbbcc85dd:0x50f99778aa930256;Chocolate District, Triq Melita 13
+way;30382084;0x130e452cd66a6365:0x5c9f84ed5a3ff213;St. James Cavalier, Pjazza Kastilja, VLT 1060, Valletta
+node;7800764385;0x130e452ce5948031:0x8168f2ac29bd95a0;APS Bank, Triq ir-Repubblika 17, VLT 1111, Valletta
+node;4194511589;0x130e452cf37495c3:0xc6fc694854de4712;Amorino, Triq Ir-Repubblika 36
+node;5096996021;0x130e452cfc074d55:0x133a420671050e78;Museum Cafe, Triq Melita 24
+node;2456287632;0x130e452cfc75cf81:0xbe660a69bc218c15;The Rock Trading Ltd, Melita Street 60/2
+node;7834571085;0x130e452d1055be35:0xc352213511c7bd26;The ordnance Pub, Triq l-Ordinanza
+way;30596392;0x130e452d13be457b:0x3aa36ea10f52954c;St. John's Cavalier - Embassy of the Sovereign Military Order of Malta, Triq l-Ordinanza
+node;2471607174;0x130e452d182ad373:0x66cb745eaf6344c2;Mina's Cafè, Ordinance Street
+node;7815171691;0x130e452d189d9ce1:0xfe68eabf8d49f791;II Ristorantino Italiano, Triq l-Ordinanza 40
+node;5101432121;0x130e452d1d18b677:0x7b3fbf595039feaf;Trabuxu, Strait Street 2, VLT 1430
+node;5424017061;0x130e452d3f9eacad:0x9d619cd191d8148f;Rampila, Valletta
+node;5920133785;0x130e452da04b8917:0x7a3018255bb98464;Sotto Pizzeria, Triq Nofs-in-Nhar
+node;5282305421;0x130e452dc77dcfd9:0xce62a2cdb4c3f8d3;The Fortress Builders - Fortifications Interpretation Centre, St. Mark Street
+node;7843431656;0x130e452ea7d62045:0x48c05f59a5b64f37;Land Registry Agency, Triq il-Punent 116, VLT 2000, Valletta
+way;24050443;0x130e4532e720622b:0x2cd91a35694872ce;Grand Hotel Excelsior, Great Siege Road, FRN1810, Floriana
+way;386464944;0x130e45352394c87d:0x972326611b17d05;Greek Embassy, Triq ir-Rampa ta' Ta' Xbiex 6, Ta' Xbiex
+node;5794087674;0x130e453546fa1491:0xc62959d09e9c0340;Dutch Embassy, Ix-Xatt Ta' Ta' Xbiex, XBX 1026, Ta' Xbiex
+node;7875641868;0x130e45355a2464cf:0x2b52c82fb69aa96f;Casumo, Triq L-Uqija, Is-Swieqi
+node;6549227186;0x130e453583894f8f:0xac8875fea0e090c0;FirstUnited Insurance Brokers Ltd, Triq Principessa Elizabetta 25, XBX 1103, Ta' Xbiex
+node;7442985896;0x130e4535a573e8e1:0xe19605090239a708;WH Partners, Triq Abate Rigord Quantum House, XBX1120, Ta' Xbiex
+relation;12635629;0x130e4535ae398747:0x5ba4dbbddecd75bc;Embassy of Egypt, Vjal Sir Temi Żammit 10, Ta' Xbiex
+node;2471611014;0x130e4537befa53a7:0x9b987be2f7e89ff8;Subway, The Strand 143, 1026, Sliema
+node;6765230885;0x130e4537bf348175:0x2d6311d6911c63bb;posh turkish, Triq Valletta MST9017
+way;523268078;0x130e4537c13d3225:0x5f2d9e77f71b403c;Triq Sir Frederick Ponsonby 5
+way;523268091;0x130e4537c16a994d:0xbcf914fead075a94;Triq Sir Frederick Ponsonby 6
+node;5094599147;0x130e4537c2fc688f:0x93cbef97ecaab8f9;Euro Guest House, Triq Sir Frederick Ponsonby 6
+node;6633227675;0x130e4537dda5f62f:0xf64604d9d2e7d0c5;Ali Baba, Triq Ponsomby 9
+node;1657800338;0x130e4537f994206d:0xe69d27055dad992;Polyclinic Sliema, Pjazza Meme Scicluna, Gżira
+node;4156981404;0x130e453856b77019:0x126fee70618e2584;Souvenirs that don't suck, Triq Manwel Dimech 108, 1055, Tas-Sliema
+node;385268644;0x130e45385711a5a3:0x91b3ffd06b69626e;MaltaPost, Triq Manwel Dimech 118, 1055, Tas-Sliema
+way;164627045;0x130e4538985fd4df:0x921b535d3fbfa056;Venture Trading, Blanche Street 1, SLM2051
+node;4338036135;0x130e4538a1f8618d:0x5bd95743128e9d4e;Kwik Mart Food Store, Triq Blanche Huber 150, SLM2051, Tas-Sliema
+node;181448618;0x130e453918e77c0b:0xffd60e35f37f6cc7;Triq Manwel Dimech, Tas-Sliema
+way;412970559;0x130e45395153d081:0xec6787b8328068d4;Triq Rodolfu 191
+way;412970558;0x130e453955f15617:0x8d746f41d44f8c12;Triq Rodolfu 194
+node;4245071988;0x130e45398db9b42b:0x88b753e562beeeed;Pace's Guest House, Triq Sant' Agata 10
+way;344782270;0x130e4539a1595a67:0x4d45d767f96a2a0d;AM Language Studio, Manwel Dimech Street 299, SLM 1054, Tas-Sliema
+node;6222667137;0x130e453a4bcd538d:0x7defd6b68d07c2;Caffé Berry, Triq San Duminku
+node;4239783483;0x130e453a51440ac9:0xd173d3c4ed7b7d0a;Linen and Co, Republic Street
+node;4221689999;0x130e453ae07e782d:0x47a7674276c8f2cf;inlingua Malta School of Languages, Sqaq Ġużè Fava 9, SLM1632
+way;429472188;0x130e453b2f554637:0xe7aa860f7c3c6c91;REGENT HOUSE, Triq Bisazza, SLM 1640, Tas-Sliema
+node;6080270349;0x130e453b325fde95:0xab93888cadbd0b4b;Tanti Opticians, Tigné street 8
+node;5750020521;0x130e453b40ab3b0b:0x6c58b898162dc5b9;iCentre, Tagliaferro Centre
+node;5794087669;0x130e453b5907e7b7:0xf307b7e26faa7839;Embassy of the Federal Republic of Germany, Ta' Xbiex Seafront, XBX 1026, Ta' Xbiex
+node;6670470513;0x130e453b5d428465:0xe9902f5f8a68ba07;Delizie Siciliane, High street
+node;6398221349;0x130e453b60b15d1b:0x8efc3733b64c10d6;Casa Natura, Triq il-Kbira
+node;3336268497;0x130e453b63ea7da3:0x946f1c8be869de1a;Hole in The Wall Bar, High Street 35, SLM1549, Sliema
+node;6080277548;0x130e453b676fa459:0xef2ea6f78a18c28f;ForteDent, 114
+way;33425525;0x130e453b8830c555:0xfb64fdbe5044fe21;The Palace, High Street, SLM 1542, Sliema
+node;3552227877;0x130e453b897a2b0d:0x4175c3c8191fd965;Triq Il-Kbira
+node;3305873370;0x130e453bf5219e49:0x48767cd0a91f02db;Salisbury Arms, Triq Il-Kbira 81, SLM 1540, Sliema
+node;2313037599;0x130e453c01dd140b:0xbe52619a1532e5a;Miracle Foods, Triq Sir Adrian Dingli
+way;33425527;0x130e453c0a4c4729:0x7de4643603e50073;The Victoria, Gorg Borg Olivier Street, SLM 1807, Sliema
+way;33426681;0x130e453c721aa8fd:0x9c4dc1457f86cabf;Saint James Hospital, George Borg Olivier Street, SLM 1807, Sliema
+node;5074394429;0x130e453caf18daf9:0xc872c4f01b05943e;Roma, Għar il-Lembi Street
+way;339450810;0x130e453cb7f876fb:0x8aa5e4c6bcc9e2b0;Preluna, Tower Road 124, SLM 1000, Sliema
+node;382265003;0x130e453ceb510a23:0x9e25c64fb5e17865;Sciantusi, Triq Milner, SLM 10, Sliema
+node;4160005914;0x130e453d20cdb4b5:0x92cdd2cc05a0746b;Le Malte, Triq it-Torri
+node;3208356565;0x130e453da83caa13:0x1dbe149444d500bc;Il-Gabbana, Triq Torri, SLM 1604, Sliema
+node;2563788299;0x130e453e28b60ec3:0x8c21be1fe716fa0d;Carlton Hotel, Triq it-Torri 261, Sliema
+node;2448005039;0x130e453e7f4e7179:0xee512ab8460d1579;St. Patric, Triq San Gwann Bosco, Sliema
+node;6250017224;0x130e453e97eb8ef1:0x562cc6a82b649b4a;Alice pizza, Triq San Ġorġ 137, St. Julian's
+node;7242702504;0x130e453ea9e76921:0xc8ef369d68a69fdb;Maypole, Triq Sir Adrian Dingli 4
+node;3208356567;0x130e453f1507689d:0xc89e924417a707b;Vecchia Napoli, Triq it-Torri 255, Sliema
+way;197890548;0x130e453f15119e7b:0x285a5b4b87690247;Plaza Regency Hotel, Tower Road 251
+node;4239783482;0x130e453f16a4fe6d:0xe10f7832f15a4762;Cara's Cafe', Triq it-Torri
+node;2471257254;0x130e45405cf2dafb:0xe9ee2048408a40e6;Haze Cafe, Triq Gorg Borg Olivier STJ 1089, San Giljan
+node;5317112714;0x130e4540722e50a9:0x764f4ee66936f63;Blue Bay Apartments, Triq Sir Frederick Ponsonby, GZR1071, Il-Gżira
+node;2313037592;0x130e45409b2d9497:0xcf37397c29ff4055;Piccolo Padre, Main Street 195
+node;3767426115;0x130e4540b7047ac1:0xf4c8f155368c0be4;Balluta Pharmacy, Triq Il-Kbira
+node;5298291217;0x130e4540b97c3493:0x622e2d2c4751fa7d;Cafe Goloso, Triq Il-Kbira
+node;6148083317;0x130e4540b99aace9:0x81cf8ddc6f23f3e8;Crudo, Triq Il-Kbira
+node;7106423686;0x130e4540e4497d2d:0xb6e339d2e9418417;Bocconcino cafe, Gorg Borg Olivier
+node;5910334388;0x130e4540e6f047e7:0x27a4bd1e0ebb30e0;EF Balluta Bay Residence, Main St 48, St. Julian's
+way;220407232;0x130e4540e9b1c3c7:0x4db679c31f606cbc;Naar Restobar, George Borg Olivier Street
+node;2573554819;0x130e454225d4b261:0x551fa553b77d19a4;Tourist Apartment in St. Julian's, Triq Mikiel Ang Borg, St. Julians
+node;4887778521;0x130e45424227ea27:0x1582de250cc515f1;Magister Academy, Triq Il-Mensija 1960
+way;193879465;0x130e4543d60cde51:0x9437d7482562f921;Embassy of The Peoples Republic of China, Triq Lapsi, San Ġiljan
+node;7167221301;0x130e454433355bdf:0x1e8bf7e2d6ed6050;Kassik, Rue d'Argens
+way;392824755;0x130e454457aefd2f:0xb499d58d76c3d281;the Crew Cafe' Bar, The Strand 207, GZR 1023, Gzira
+node;3327462543;0x130e4544f390f3ff:0xa97641126e2905e5;Chic Hair And Makeup, Triq Diodorus Siculus 39, St. Julian's
+node;1762385287;0x130e45473557a267:0x45a8eaa073359f3f;Bank of Valletta, Triq Manwel Dimech, ATD 1301, Tas-Sliema
+node;6080320258;0x130e4548426a4a8b:0x590337dd3493c7b8;The Convenience Shop, Rue d'Argens
+node;6578243386;0x130e454853d7d6cb:0xe36283131a5640bd;Elektro Services, Rue d'Argens 347
+node;5896567802;0x130e45485d02b6f9:0x29e69b922ee2852;Dolce Sicilia, Triq Tigné
+node;5894676255;0x130e454909ddec77:0x778335739a24085c;Il-Gzira Local Council, Rue D'Argens, Il-Gżira
+node;6087595286;0x130e4549c08ce79d:0x3c6902606fca09c8;Cath's Home, Triq Il-Gżira
+node;2810367530;0x130e4549c98ef66f:0xa8f230d82d333463;Gzira
+node;6087601685;0x130e4549df14a6c5:0x1f835a23b5c778c5;BOV, The Strand 219-220, Gzira
+way;779910809;0x130e4549e011d2c7:0x851ddefeed174317;Bus Stop Lounge, The Strand, GZR 1023, Il-Gżira
+node;6249900296;0x130e4549e5c97907:0x88d70b1b705a91c2;Dr. Juice, Griza Road 54, Gzira
+node;4309195590;0x130e4549fa759b5f:0xf097fa042d0e7de6;KFC, Triq L-Imsida 56
+relation;12634742;0x130e454a1122f22d:0x564079dae623f74;Quantum Place, Triq Ix-Xatt Ta' Ta' Xbiex, GZR1120, Ta' Xbiex
+node;2804607441;0x130e454a1f3c48c9:0xd628fc889d067960;Miracle Foods, Triq L-Imsida
+node;1512993924;0x130e454b0f3d0eb1:0x773cd6573ba3b5a8;Gala Centre, Triq Testaferrata, XBX 1407, Ta' Xbiex
+node;7040330097;0x130e454b2193c971:0x812487495b6c638c;Remedies, Triq Il-Principessa Margherita
+way;710703421;0x130e454b39fdf81f:0xf25ed265d9cbfc78;Magna tas-Serrar, L-Imsida
+node;7245539519;0x130e454b3d12d3fd:0xa4d09cfc94b32ea6;Micro Data Technology, Triq Il-Principessa Margherita
+node;7040346885;0x130e454b408eb3f5:0xa03b7b58e1b79ce2;Digiprint, Triq Principessa Margherita
+way;710699355;0x130e454b51edcebf:0xd6a83eee93f3dcd4;The Lyric, Triq Antonio Bosio, L-Imsida
+node;5273452661;0x130e454b64b30c87:0x6a8c480cf1382388;Olimpus, Triq Valletta, Il-Mosta
+node;6203084121;0x130e454b696606b5:0x6e0733d07c83130e;Goldie's, Triq Testaferrata, L-Imsida
+node;6799800738;0x130e454b7ad95457:0x15e37d61a3e2921;Gamesys Group, Rue d'Argens 175, MSD 1360, Msida
+node;2448005038;0x130e454b9c613125:0x8e7302d41e7fa52c;A.D. SuperMarket, Triq C. De Brocktorff, Msida
+node;3509957770;0x130e454bb7608ad9:0xc78596c748a02b49;Gasan Mamo, Msida Road
+node;2448003128;0x130e454bbe48ffc9:0x8d19abc25b965717;BMW, Rue D'Argens, Gzira
+node;5896636484;0x130e454ca2181751:0x6c073e617abdc40d;The Convenience Shop, Triq L-Isqof F. S. Caruana 25
+node;5896641572;0x130e454cb37d0035:0xa6026c3cbf03eec6;The Drury Collection, Triq San Lwigi
+node;6184394099;0x130e454cb54ee1f7:0xad7d4b861fbfc30a;The LSF Centre, Triq San Lwigi
+way;395604430;0x130e454cd0321755:0xf7e4362c73279e2b;Continental Flats, Triq Victor Denaro, Msida
+way;710703419;0x130e454cdb9497d3:0x8488f5e58a23a86e;Triq L-Iskola, L-Imsida
+node;7847021485;0x130e454d1821a0ef:0x77e7b0746f20fa86;Triq il-Punent
+node;7193701211;0x130e4550cd2cb787:0x29191bef5e8d86da;PAWS Malta, Triq Tal-Mensija 9, San Ġwann
+node;1428648974;0x130e4550cfbc3407:0x30550d4b443b6c64;Bank of Valletta, Triq In-Naxxar 184, SGN 9030, San Ġwann
+node;2083241506;0x130e45523fe99caf:0xc1d717cac63f41c7;Guess, Triq ir-Repubblika, Valletta
+way;674466732;0x130e45526a004f2b:0x65bf4d2242e59faa;Barcellona Residence, Triq San Lwiġi, L-Imsida
+way;297172958;0x130e45548ca6d317:0x9af354451a8f887d;Mater Dei Special School, Triq Misraħ il-Barrieri, L-Imsida
+way;138139347;0x130e455544ca6741:0x1849295daa9c8835;Klikk Computers, Triq Dun Karm, BKR4019
+way;756043572;0x130e4555452be47d:0xbdaec20d537746b2;Adventure Shop, Triq Dun Karm Adventure Shop, Birkirkara
+node;4520218989;0x130e4555e1504197:0xdffa800208087ecd;Caxton Printshop ltd, Qasam Industriali
+way;364674877;0x130e4556512b1db1:0xb420e10cb60ef348;birkirkara
+node;4226677805;0x130e455719827721:0x70867f3bcb5ebf58;Vetcare Animal Clinic, Misrah Lewza
+node;7862601387;0x130e45573174f0c5:0x871180d1b2a9e4f2;PCC, Triq il-Mosta 34, H'Attard
+way;275638785;0x130e45574b4d63f1:0xfef8e6e47b36c023;Lidl, Triq ic-Cikklamini, SGN 1331, San Ġwann
+node;3983017257;0x130e455791c0708d:0xbde96a3e25d16b77;La Rovesciata, Triq Il-Kampanella, San Ġwann
+way;186749928;0x130e4557b66a07af:0x2375a4a87544f9ce;San Ġwann
+node;7188991292;0x130e455a3dbc90c3:0xd2200e1d03aab7fe;The Hub, Triq Sant Andrija, SGN 1612, San Ġwann
+node;383640696;0x130e455a86e89da1:0x8ff2343fe93cafb1;Cocopazzo, South Street, Valletta
+node;5918822885;0x130e455aa16694c5:0x4b973874fe078f78;Emma’s Kitchen, Triq In-Naxxar
+way;281227987;0x130e455b8792495f:0x62acac2235ee9de6;Gateway School of English Residence, Bosfru Street, SGN 1953, San Gwann
+way;281227986;0x130e455c786f6495:0xd11fe8dfc5831f65;Gateway School of English, Bosfru Street 1, SGN 1953, San Gwann
+way;33808531;0x130e455cfecafda5:0xc64dbf11c76fae29;Malta Marriott Hotel & Spa, Main Street 39, STJ1017, St. Julian's
+way;156494192;0x130e455d5cedf21b:0x9233921d44431a94;Gnien FX Ebejer, Triq Is-Swieqi, Is-Swieqi
+node;7875641864;0x130e456079eb73e1:0x5d95ea1ed6ec4b65;Drift Meze Cafe, Triq Ta' L-Ibraġġ, Is-Swieqi
+node;6148084165;0x130e456090292c0f:0x29ccc5b71142115;La crema siciliana, Triq Il-Kbira
+node;7875641866;0x130e4560e3d4e95d:0x3d340f75a353e678;Agenda Bookshop, Triq Ta' L-Ibraġġ, Is-Swieqi
+node;4235813138;0x130e456143cb94ef:0xe168e60f91ca8ad8;Sprachcaffe St. Julian's, Triq Alamein 6, 1776, Pembroke
+node;7243113645;0x130e45615027b64b:0x1ff92b4e6fd22046;The Convenience Shop, Triq Il-Principessa Margherita
+way;932055659;0x130e4562d86349f3:0x51dab8a7a09a4fda;Australian high commission, Triq ir-Rampa ta' Ta' Xbiex
+node;5849174385;0x130e45647506d89b:0x15d042102d4df10;Maypole, Triq Madre Debrincat
+node;5849065388;0x130e4565000a6d1b:0x82f660f0ee32f89b;Pembroke Foodstore Crai, Triq Patri Indri Vella 77
+node;7232315333;0x130e45657785143f:0xcf48fb0ab3d94d4a;Pembroke Pharmacy, Triq G Malfeggiani, Pembroke
+way;137843524;0x130e456744f95e07:0x1ea1f81539517e0f;Villa St. Anna, Triq il-Qaliet, Marsaskala
+node;4411473394;0x130e456789937099:0xf746f050f759903c;garden complex fitness centre, Triq Is-Sidra
+node;4149983789;0x130e4568df2dc6f5:0x7c31b82905d90b0d;Camas Malta, Triq Santu Wistin
+node;7823916985;0x130e45690e48f52b:0x8358d20ed2b05ab0;Le majoliche, Triq Elija Zammit
+node;4911634058;0x130e45691da12aa5:0xba6d3d24090a1030;The District Hotel, Triq Santu Wistin, St. Julian's
+node;5509427285;0x130e456934578929:0xd9be14ea32c5e8c2;be.Hotel, Sqaq Lourdes, 3311, St. Julian's
+node;3562174095;0x130e456936ed3323:0x63685b100be2c011;Capt. A. Caruana, Triq Santu Wistin, St. Julian's
+node;4377516191;0x130e456939fd14c9:0x37d018d5b33629af;Casino Malta by Olympic Casino, eden place st Augustine street, st George's bay
+node;4359858896;0x130e456972d524cf:0xbaf39d46f26d5899;EC Malta, Triq Marguerite Mangion, 3180
+node;4256196489;0x130e4569f2cbab7b:0xf6f2a06f84809f83;The Residence St Julians, Triq Luigi Apap, STJ3325
+node;2479873932;0x130e456a00107a99:0x1af5b84be414e4fd;Krispy Café Bar, Triq Dobbie, St. Julians
+node;4585567757;0x130e456a008ffed9:0x3be2f23847bce534;Ferry Terminal Spinola (under construction), Gorg Borg Olivier, St. Julian's
+node;4300136401;0x130e456a0d03173f:0x71a359e3ea2f8fbb;Gululu - Kċina Maltija u Ftajjarija, Triq Spinola 133, STJ3013, San Ġiljan
+node;4201941594;0x130e456a1b7c9217:0x371ed4e948f0156d;Sardinella Restaurant, Triq San Ġorġ
+node;4290842943;0x130e456a2fd11b99:0x1ec9b6a80f673191;BIG G'S, Triq San Ǵorǵ
+node;5182448716;0x130e456a36ce729d:0xcf3677ed63a03ee0;Marco Polo, Triq Ross
+node;6341495285;0x130e456a4e4601cd:0x34762a7b4ef66faf;Cleand & Souchet, Vjal Portomaso
+node;369678615;0x130e456a808f528b:0x867bfeae3f40e149;Hard Rock Cafe, St. Julian's
+way;33569535;0x130e456abcb56fa5:0x4159162f2d792b86;Cavalieri, Spinola Road, STJ 3019, St. Julian's
+way;33569420;0x130e456b01562117:0xcc50d0fd1b403a4;Hilton Malta, Portomaso, PTM 01, St. Julian's
+node;2479888437;0x130e456b894dcee7:0xcdcbda8aab60fa84;Golden Tulip Vivaldi, Triq Dragunara, STJ3141, St. Julians
+node;386835683;0x130e456b91348595:0x445ed64a173f2dc4;Tana del Lupo, Triq il-Wilga 58a, Paceville
+node;2070507414;0x130e456b99b5e3cd:0xa66d4b529bb6f5ab;Shiva's, Triq Dragunara 8
+node;2478245086;0x130e456bbd73ff6d:0x3f584a822e6861bb;Alexandra Palace Hotel, Triq Schreiber, STJ3081, St. Julians
+node;1332708982;0x130e456bbfe91a17:0x4d9099a51e8b62f1;Valentina, Triq Dobbie, STJ3070, St. Julians
+node;2479873929;0x130e456bc698e8f5:0x52131d898cd26197;Il Pirata, Triq Paceville 41, St. Julians
+node;2480273648;0x130e456bcb8270b5:0xabee4d634c3deaaa;Maltese Mama, Triq Paceville 19-21, St. Julians
+node;496330622;0x130e456bcde63abd:0xcc7740137465ea03;The Avenue, Triq Gort, STJ 3063, St. Julian's
+node;4373975289;0x130e456be21ef713:0x7e715c82e8e16dfe;PV Hostel, Triq il-Wilġa
+node;6651345802;0x130e456be5327d97:0xf6f16dd86ef5c111;L'Ostricaio, Triq Ball
+node;2479873930;0x130e456be9f32b6b:0x5df9b79a01eb85fb;The George, Triq Paceville, STJ3103, St. Julians
+node;2480289907;0x130e456beb78b27b:0xb483bd7dc12ba45f;Lombard Bank, Triq Paceville, STJ3103, St. Julians
+node;4343037431;0x130e456beec9e183:0x7de1e254e43cb39d;De Olde Keg, Triq il-Wilġa, Paceville
+way;131338188;0x130e456de64b489f:0x63206b35bcd037e6;Corinthia (St George's Bay), St. Julians, STJ 3301, St George's Bay
+node;6432389295;0x130e456ecb0f6583:0xeacf846c6b045019;eeet well, Triq Mercanti
+way;341313261;0x130e457071fdfeb9:0x2c417664ababf34b;St. Julian's Court Block B, Triq Alfons Maria Galea, STJ 1041, St. Julian's
+node;5912087490;0x130e4574b09970bf:0x32bbf63b30fd29a3;Luggage storage, Triq Santa Lucija 15 a
+node;6087610879;0x130e457d01cbd787:0x4eb9af52943ffe9;Gentleman's Barbershop, Triq Tas-Sliema
+node;6350314799;0x130e4585dd27ab1d:0x5d65e809c355ec26;Smart Wash, Triq H. Calleja Schembri
+node;6203028470;0x130e45895bee5527:0xe8f49e48afc42596;AJ's Cafe, Rue D'Argens, L-Imsida
+node;6235800256;0x130e4596aabee79f:0xa6f38efbf42368bc;Zwiit Cravings Cafe, Tower Road 270
+node;4479091289;0x130e4598596e8d2b:0x43f6e2b616e63750;School, Triq Edgar Bernard
+node;5894677146;0x130e4598c07492e5:0x9fa2008b94ef797a;Euronet ATM, Rue D'Argens
+node;6750508448;0x130e45996b0e7e2b:0x770d176154dde77e;e-cars, Triq Testaferrata
+node;6647886796;0x130e459b8a7b38d5:0x4e7957d9a765103f;Bluwash, Msida Circus
+node;6202175885;0x130e45a7fb6c4a9f:0x27e8e3c728481e0b;Mediterranean Court, Ix-Xatt ta' Tigné
+node;7257539382;0x130e45a877704d01:0x1ee1c38b61cb435;Tenda, Triq Santa Luċija 49, Valletta
+node;7159073122;0x130e45ace1d5e8eb:0x854cc7b82338e1f6;Coffee Circus Porto, Rue d'Argens 149
+node;6247417466;0x130e45b521f64cc9:0x67eb424136f2b37f;Storie & Sapori, The Strand
+node;5896612781;0x130e45b851c46ccf:0xfbd10402dd10d95c;J&M Self service, Triq Manoel de Vilhena
+way;452006838;0x130e45b881ee0cb3:0x815bf9218665a089;Triq il-Kbira, SLM 1540, Tas-Sliema
+node;7159231287;0x130e45c1181fd3fd:0x93f602ef0142f5a9;Alchemy, steait street
+way;969910543;0x130e45c5446d5a55:0x3468146135bd003e;Embassy of Palestine, Triq il-Modd 52, SWQ 2371, Is-Swieqi
+node;7875641867;0x130e45c673fd5947:0x7c68c4a7f8c40e40;Ben Estates, Triq Ta' L-Ibraġġ, Is-Swieqi
+node;2803444951;0x130e45c7184665cb:0x485d43d4c4a00726;Mr. Maxims, Lower Ross Street 1, St. Julian's
+node;5755709021;0x130e45c87f7ffb31:0x2ad6d227a51befcc;Dolceria Micallef valletta, Triq San Pawl 339
+node;6376173561;0x130e45cfa450552b:0xac7668fa5429a5cd;Avotaco, Triq l-Abate Rigord
+node;7058225070;0x130e45d44104bd6d:0x1ad3a7fbd4e2fcb6;Decathlon, Triq It-tigrija Al, Qormi MRS 2912
+node;6039720625;0x130e45d711ae29f1:0x81b2aef357ef7ddf;Gzira Self Service, Triq Ir-Rebha 61
+way;172649839;0x130e45d92e754a17:0x118ea42d87972b87;The Podium, Triq San Mark
+node;6647786926;0x130e45e418165649:0x77ed969dd22f2849;Water point, Triq Il-Punent
+node;6945631475;0x130e45e4579941f1:0x355b52205004f4f;Zen to Go, Triq San Gorg, Ta' Xbiex
+node;6558354107;0x130e45eafa81a8e7:0xc67f03deaf58c0ec;The Thirsty Lawyer, Strait Street 97-98, Valletta
+node;6573898726;0x130e45f7737c3c73:0xed572ae174d22a93;Porsche, Triq Testaferrata, L-Imsida
+node;6511616070;0x130e45f77fcac6d3:0xb536513b02420562;L'angolo, Triq ir-Rebha
+node;7214697888;0x130e45fd44eb6229:0xe7f639fb0bdac132;Tikkas Thai Street Food, Triq In-Naxxar 43, 9033
+relation;12663145;0x130e45fdae3d42ad:0x3167b62842dcbaf;St. Monica School, Triq Maria Teresa Spinelli, GZR 1713, Il-Gżira
+way;279285991;0x130e4b09ca6d40e9:0x4911fc8dd0b0d628;Amabile Cauchi, Għajnsielem
+node;759231967;0x130e4b1011b2d685:0x7811ff0ace37d15b;Blue Waters Dive Cove, Qala
+node;759183319;0x130e4b179cfaf81f:0x5750b4318868896a;Ur Choice Supermarket, Triq il-Forn
+node;3818694412;0x130e4b18f932a4db:0x8ebd34401f8eaa4a;Il-Wileġ Bed and Breakfast, Triq il-Mithna 54, QLA 1914, Qala
+node;759221676;0x130e4b18fe24593f:0xfd74b0983cf26ae2;Il Wileġ Restaurant, Triq il-Wileg 33, QLA 1930, Qala
+way;292135059;0x130e4b19dd343357:0x2439a8ffd7beda81;Qala
+node;4482552860;0x130e4b2273600755:0x143b183c0c82644c;Qala Repose, Triq ta'Cini, Qala
+node;2956190652;0x130e4b292ef49aaf:0x67b274fbf4f9f570;Nadur
+way;311874891;0x130e4b4846aecd11:0x4ab28992ef07b1a7;Grand Hotel Gozo, Mgarr
+way;311874888;0x130e4b4896a4ee8d:0x5c8f87ddf11811e0;Gleneagles, Mgarr
+way;239809025;0x130e4c0dbd4161b9:0x4d149349a901fc3b;Ray's Lido Restaurant, MLH02, Little Armier Bay
+node;436544919;0x130e4c2cd3aef931:0x6bf0542bf7496a83;Santa Marija Service Station, Triq il-Kbira 268, Mellieħa
+node;5986545685;0x130e4c2d331ba895:0xd0c669819d0dffcc;Mellieha Judo Club, Triq il-Garzella, MLH2021, Mellieħa
+node;7234694904;0x130e4c2d33591391:0xd110befcd19f5801;Tomorrow's Home, Triq il-Kbira 222, Mellieħa
+node;7234694905;0x130e4c2d5568f0cb:0xbc4915987722f720;Miracle foods, Triq il-Kbira 238, Mellieħa
+way;778983958;0x130e4c2f67dbf1d9:0x71f12a3da422fd0;Triq J Kepler 19, Il-Mellieħa
+way;283412226;0x130e4c32e1a30159:0xebd0a55dfb4557b0;Mellieħa
+way;291194491;0x130e4c334c62e6dd:0xff8b437d53ba1d70;Schere Café Bar, Triq Sant' Anna, MLH1022, Mellieħa
+node;464766507;0x130e4c335c93e933:0xaad87a3935f057ae;Bank of Valletta, Triq Ġorġ Borg Olivier 34, MLH 1025, Mellieħa
+node;6331046185;0x130e4c3389cba067:0x63e7163d69611b60;Grotto, Triq Santa Rita
+way;24274819;0x130e4c3411d54475:0xb2e34284c2090fb4;Mellieha Parish Church, Triq is-Santwarju, Il-Mellieħa
+node;3267981682;0x130e4c341df9485d:0xbad01379001d66a0;Sea View Bar, Road Salvinu Vella
+node;7271658213;0x130e4c34a15bc647:0x93622a7e50f5fb5d;Mellieha Local Council, Triq il-Mitħna l-Ġdida 126, MLĦ 1107, Mellieħa
+node;6297835300;0x130e4c34a8a5f917:0xc11336802c51b826;Start Computers, Triq il-Mitħna l-Ġdida 108, MLH1106, Mellieħa
+node;6298039166;0x130e4c34a9a3e5ff:0xc3855658c36b5d8a;Mellieha Post Office, Triq Il-Mitħna l-Ġdida, Mellieħa
+way;318213609;0x130e4c34eabc0e6f:0x6f763b4de61e52e1;Dar il-Madonna tal-Mellieha, Triq il-Qalb Imqaddsa, Mellieħa
+node;4695528889;0x130e4c37de54f917:0xebd3bfa3a1171244;Seashell Diving Centre, Triq il-Marfa
+way;388179870;0x130e4c37e0d16561:0xfee8232fd293ec6b;Tunnynet, Triq il-Marfa, Il-Mellieħa
+way;422428405;0x130e4c4426621fad:0x4969909a5bace8ed;Munchies Mellieha Bay, Triq il-Marfa, Il-Mellieħa
+way;33550741;0x130e4c641c37e851:0x521a52c83ed0528e;Triq il-Marfa Dar Betsajda, Cirkewwa
+node;4158309892;0x130e4c89f42d38fb:0xae0fae075a74fbfe;Paradise Diving, Triq il-Marfa, Mellieha
+node;7253124801;0x130e4d05cfd7b10f:0x23723d70357b62c5;Citadel, Triq tas-Salib 7
+node;7815046588;0x130e4d615ec07bb5:0x28442b0a5d68417f;Bouquet Garni, Triq Ġorġ Borg Olivier 4
+node;1187919665;0x130e4d970a124fcb:0x63401bdd462dcc1e;Apple's Eye, Golden Bay
+node;2945938142;0x130e4dd2ad1e1b57:0xad36227f0ebeea13;Crosskeys, Triq il-Kbira, Mellieħa
+node;5363881822;0x130e4dd2b3523d5d:0x98eed2ed38dcb1ec;Valyou Supermarket, Triq il-Kbira
+node;7043195286;0x130e4dd333ef6553:0xb516013f36bca752;Green Valley Supermarket, Triq Il-Fortizza
+node;4617839206;0x130e4dec349f735b:0x57e2cc8b0a0afcc6;Ta' Celita - Sunny Bar and Restaurant, Triq Sir Harry Luke 1, MGR 1502, L-Imġarr
+way;414212212;0x130e4df09b8768e9:0x876ddf2a693d7e8d;Mġarr
+node;1292872948;0x130e4e2a83097b09:0x47f83be3f6238a7f;Triq il-Mosta
+node;4763796722;0x130e4e2b9083fe19:0x619ee783d17120c8;Miracle Foods, Triq Nikol Muscat, Il-Mosta
+node;1160033749;0x130e4e2dd6f56479:0x500fdca2c4de89a6;Kentish Fried Chicken, Triq Il-Kostituzzjoni, Il-Mosta
+node;4639414707;0x130e4e2e3bdeed81:0x27377b4a2ced8dd5;Adam's Fish Shop, Triq Il-Kostituzzjoni 333B, Il-Mosta
+node;5139640122;0x130e4e2e6b6a1ad7:0x99b9afbe0ec27f43;Iceland Supermarket, Triq Il-Kostituzzjoni
+way;222768515;0x130e4e2f72f64521:0x2cc3f9f5f932eff3;Dar San Ġużepp, Triq il-Missjunarji Maltin
+node;5415944325;0x130e4e2f993ffac7:0x88f2be9b88bbfd01;Ta' Bistra Catacombs, Triq Francesco Napuljun Tagliaferro
+node;2731400625;0x130e4e2fae476709:0x6619f03a93874ca4;Triq il-Missjunarji Maltin
+way;469643129;0x130e4e3210bcfcfb:0xd086e7c68a1a055d;Lidl, Triq Id-Difiza Civili, MST 1743, Mosta
+way;668824115;0x130e4e32ba96b583:0x363b6582ad310eb4;RS2, Triq il-Fortizza, Il-Mosta
+way;157085939;0x130e4e379a1a150f:0x45de3e4014094915;Sherries Estates, Triq Burmarrad, Burmarrad
+node;6948495485;0x130e4e58215fee53:0xbaaa2dc97cbf5e9b;Made in Sicily, Triq Il-Korp Tal-Pijunieri
+way;153019336;0x130e4e5852d850f7:0x966200d4f6e7c3cd;Hotel Oriana, Triq Ċensu Tanti
+node;4596640103;0x130e4e585638c67f:0xff9b0a39dab8684e;Eurosaver, Triq Ċensu Tanti, Buġibba
+node;5740986021;0x130e4e592cef22ad:0x1a5bafef8f46c4f9;Alpha School of English, Triq l-Arznell
+node;4393028507;0x130e4e5ec9c89439:0xe48ebc5a03239d52;The Dounut Factory, Triq il-Mosta, St Paul`s Bay
+node;4103565289;0x130e4e5edce6663f:0x4dc54329c9358440;Fins and Gills, Triq il-Mosta
+node;4314010489;0x130e4e5ee87159a1:0x98cd88e5932acb36;Gandhi Tandoori, Triq il-Mosta
+node;7272881032;0x130e4e60f9a5cd75:0x3f650ca7e6bb7392;Dinky Fingers, Triq San Pawl 493
+node;7273355994;0x130e4e637f22365d:0x750d31877696ad1e;Kunsill Lokali San Pawl il-Baħar, SPB 3418
+way;367557633;0x130e4e698d84e505:0x600c991898dd0537;San Pawl il-Baħar
+node;2931244770;0x130e4e7911c37b85:0x9b4f3e7abd79f289;Xemxija Pitstop, Xemxija
+node;5466292623;0x130e4e793a048f0d:0x3f086236829824b4;Porto del sol, Telgħet ix-Xemxija
+node;2931342556;0x130e4e793c84eb67:0x843e703f8079ecd;Munchy Monkey, Ix-Xemxija
+node;7273355997;0x130e4e8027c3be77:0x389b028693a0d25a;Selmun Bar & Restaurant, Triq Selmun 36
+node;7040068485;0x130e4ef66c1e1e2d:0x292ec7ea0869aff2;Hornblower Cruises, Dawret il-Gzejjer, 2508
+node;6652721198;0x130e4ef78da97e95:0xb5b765554150b916;Choco Kebab Cafe, Triq Sant' Antnin 228
+node;7039318490;0x130e4ef7b4ec9d25:0x848879590343bcb7;Trattoria 'a Lanterna, Triq San Xmun 160, 2575
+node;1422403323;0x130e4ef7c2bf4e6d:0xb9b07b521633437e;Whyte Harte, Gandoffli 74
+node;4929511121;0x130e4ef7fe8ea9e7:0x9aaab4c79172716c;Compass Car Hire, Qroll
+node;7728052155;0x130e4ef81a2c1967:0xea4a65879009c93f;The Donut Factory, Triq il-Ħalel 85, Bugibba
+node;2246530243;0x130e4ef86062c03f:0xb4432304c32e2ad3;Munchies Shak Bar, Triq it-Turisti
+node;4450923389;0x130e4ef8e29d4951:0x61ebafaf4c3ef425;La Sorpresa, Triq it-Turisti
+node;4232165889;0x130e4ef9229d4033:0x4604cde135a4c898;The George, Triq it-Turisti
+node;297019799;0x130e4ef939ddb53d:0x1e3fc59880ade56e;Trolees, Triq il-Merluzz
+node;4122664974;0x130e4ef953694989:0x28a62d013df9e16f;Park lane aparthotel, Triq il-Maskli
+way;275577212;0x130e4efd1fe908d5:0x8db8cd849c4a7d71;Malta National Aquarium, Triq it-Trunċiera, SPB 1500
+node;5310405621;0x130e4efe39e7ec9f:0x3f5062b49039a1ca;Zigumar Restaurant, Triq il-Luzzu
+way;275577214;0x130e4efeacf38dfd:0xf75291cdd87456dc;Qawra
+node;5054440752;0x130e4eff6d36c7f1:0xcae82007b0e874b2;Hotel Soreda, Andrew Cunningham Street, Qawra SPB 1744
+way;131354712;0x130e4f05e703882f:0x59e7538d23884899;The Westin Dragonara Resort, Triq Dragunara, STJ 3143, St Julian
+node;7273355996;0x130e4f0fdbf6ff9f:0xae1cd25ba3ed237;Wines & Co., Xemxija Hill 39, Ix-Xemxija
+node;6659934687;0x130e4f20cfe24543:0xdac22ce22fa281b5;Bukkun, Triq il-Kbira 150
+node;7796129385;0x130e4f2d60cf67af:0x756f610a461eca23;Triq Geronimo Abos 109
+way;184066124;0x130e4f4b34fbe811:0x7ce0d478db7709cf;Pjazza s-16 ta' Settembru, MST, Mosta
+node;4361798990;0x130e4f65201408ed:0x61580026a03a145d;Saint Anne's clinic, Triq il-Karmnu
+node;5857541685;0x130e4f6ee5a6f2df:0x4889a30dd6ee8c0c;Charity Shop, Triq Ġorg Borġ Olivier
+node;7272881009;0x130e4f91fe6e6c0f:0x1dfcb48c25acb71c;B. Grima & Sons Ltd., Triq Jean De La Cassiere, SPB 3138, St Paul`s Bay
+way;276440053;0x130e4f99110a2a09:0x508995f71142a5c9;Gnien Santa Marija tal-Angli, Baħar iċ-Ċagħaq
+way;275699955;0x130e4f9b74bc8e0f:0xc327573ed2019f98;Malta Marine Park, Tul il-kosta, NXR 9038, Bahar ic-Caghaq
+node;6367991575;0x130e4fb67695ce27:0x9944157299f1c30d;Good Earth, Triq Il-Kbira
+node;767819773;0x130e4fc28f897ca1:0xdd8f7d2213e44444;Valyou Superstore, Triq il-Parroċċa, Naxxar
+node;4339070695;0x130e4fc325b17461:0x95c83a7a1746c2c6;BRASS@KNUCKLE, Oratorju
+node;4255831989;0x130e4fc4b75ba3db:0x5135dac2cdf34ac8;Knights in Malta B&B, Triq Santa Lucija 138
+node;4249212489;0x130e4fca681ffe7d:0x293f347eb385e823;HomeTrends Baby & Kids, Taz-Zwejt, SGN3000
+node;7881276839;0x130e4fcccd33c337:0x2da7a02d05f41421;ABC Diving, Triq il-Fekruna, San Pawl il-Baħar
+node;5244173697;0x130e4fd07082e90b:0x1b4747242357eaf6;Maypole Confectionery, Vial Il-21 Settembru, In-Naxxar
+way;656161079;0x130e4fd0be62a6bd:0x1149537ceb0b1a1e;Ċentru Pastorali Sant'Andrija, Triq Il-Kostituzzjoni, Il-Mosta
+node;7878465350;0x130e4fd20d9f2ec7:0xe555b9633830e58a;Maltco, Vjal il-Qalbiena Mostin, Il-Mosta
+node;7878465351;0x130e4fd20e0cf90f:0x1f1eb8b96f68f508;Maypole Confectionery, Vjal il-Qalbiena Mostin, Il-Mosta
+node;5371888758;0x130e4fd26221bf3f:0x9884abc9f13c6eb8;Santa Margerita Pharmacy, Vjal il-Qalbiena Mostin, Il-Mosta
+way;307522300;0x130e4fd3892dd7b9:0xc7e94747c3647e86;Mosta
+node;455230993;0x130e4fd4a32fceab:0xed9785c11c14a590;Save Wise Supermarket, Triq Wied Is-Sir
+node;7119482285;0x130e4fd4cc6d016f:0xd2112d38414cfeeb;La Tartine, 11/12 Pjazza Rotonda II- Mosta MST 9042 , Malta, 9042
+node;6338246485;0x130e4fd4cce2550b:0x1a7f3a2c81a6c253;The Cake Box, Triq il-Kbira
+node;1164067689;0x130e4fd4ccf85dc7:0xee24b5a44c5fed94;APS Bank, Il-Pjazza tar-Rotunda, Mosta
+node;5910424886;0x130e4fd6de09dd05:0xeb23aa7527424778;PolMalta Polish Shop St. Julian’s, 3A Lapsi Street
+way;364342779;0x130e4fd7e1a0956f:0xd230a0363f33b630;PAMA Supermarket, Valletta Road, MST 9017, Mosta
+way;623835160;0x130e4fd802f5edaf:0xcd126328d6d5d41c;Halmann Vella Ltd., Triq Il-Mosta The Factory, LJA9016, Ħal Lija
+node;4674495365;0x130e4fd90e696f5f:0x5a3110fec2bfde86;Yue, Labour Avenue, NXR9027, Naxxar
+node;7862897515;0x130e4fdb91832f25:0xafd5b32ec15fbfd5;Cathedral Optical, Triq Kananea, Ħ'Attard
+node;2916175996;0x130e4fdf4b6d5ce5:0x8ebf4975a52b570b;Subaru Malta, Triq Il-Mosta Lia Buildings, LJA 9012, Lija
+way;279281503;0x130e4fdff8dc2339:0x3b1b154cf8bf6644;Ħal Lija
+node;4202052052;0x130e4fe1d586f1d1:0x7136240fcea7a97f;Teamsport, Triq Dun Karm, IKL 9022, Iklin
+way;276452020;0x130e4fe25ad166bf:0x61e6d03f74653f62;Pjazza Ninu Cremona, Iklin
+way;33684627;0x130e4fe83aaed341:0x413c1b8d4a4fc53b;Palazzo Parisio & Gardens, Victory Square 29, NXR 1700, Naxxar
+node;2826228093;0x130e4fe91620695b:0x28313bd97cad1ff3;Naxxar
+way;344980591;0x130e4feec09fd5c7:0xcfc0ed14f53c2358;Solar Solutions, Triq Tal-Balal 2, San Gwann
+node;7272881004;0x130e4fef60fac185:0xa5513672e8caed8;Nutrition House, Triq il-Lampuki 59
+node;4107217889;0x130e4fefa7951cbf:0x1bf284bfdb22b8cf;Bitmac Ltd, Tal-Balal
+way;284055477;0x130e4ff1c213e70f:0x814814b509f6273f;Liaco Limited, Triq Il-Mosta Lia Buildings, LJA 9012, Lija
+way;414225078;0x130e4ff3541941ef:0xa1353e4df0a5df61;Gharghur
+way;366449067;0x130e4ff51ccf8015:0x3795c815687af4ee;Il-Kappella ta' Sant'Anna, Pjazzetta Sant' Anna, Ħ'Attard
+node;3261416104;0x130e4ff824eed1d3:0x7df93a393fb75b72;The Corner Office, Triq Il-Kapuccini, San Gwann
+node;4249210790;0x130e4ff92b9a5503:0x79cda2559d2daa7f;HomeTrends, Taz-Zwejt, SGN3000
+node;7171400970;0x130e4ffde36ed2bf:0x8a338177224455f2;Inspire Charity Shop, Triq Tumas Fenech 40, Birkirkara
+node;7046358668;0x130e4ffde8e3ecf7:0x5a50b6900a0489ab;Lighthouse kitchen and Lounge, 9 ta' Frar 1799 10, SGN 9020, San Gwann
+node;4369083010;0x130e4fffff2f713b:0x5a8a3b48a8dc4859;TechPoinT, Triq Dun Karm Techpoint, Birkirkara
+node;4223244990;0x130e5001a9b4e7eb:0x2ec8119371106a1c;The Shipwreck, Triq S Sommier, BKR4611
+node;2796468608;0x130e50034b3d7b69:0xedf5f6e1b7c80361;HSBC Bank Malta - Balzan Branch, Triq Idmejda, Ħal Balzan
+node;7891274981;0x130e50038aa21329:0x85e5728a036a51b5;Marco Shoe Store, Triq Fleur-de-Lys, Birkirkara
+node;1312748120;0x130e50040a9915dd:0x82881968034aa872;Brown's Pharmacy, Triq Fleur-de-Lys 32, Birkirkara
+node;1836683009;0x130e50040b1b82e7:0xd651d16fc0b09e96;Bank of Valletta, Triq Fleur-de-Lys 411, BKR 9061, Birkirkara
+node;2618254103;0x130e5005aba4dced:0x1140109f478eaf31;Light Design Solutions, Emmanuel Schembri Street, BKR1810, Birkirkara
+node;4502639289;0x130e5007378bdfdf:0x504b44d5b20209df;Urban Jungle Birkirkara, Triq Salvu Psaila, BKR 9077
+way;172135629;0x130e5007480d6fc5:0xd7c4c93b396b1931;Media Consulta House, Triq Salvu Psaila 150
+node;1312748136;0x130e50074fb787a1:0xea80d2cd48af767b;Eurosport, Psaila
+node;1312748152;0x130e50075a8b4307:0x9ea4ea4167b125a2;The Sound Machine, Triq Salvu Psaila
+way;287685703;0x130e5008211749a5:0xba4a34cf25063655;Dar il-Ħanin Samaritan, Triq il-Palazz l-Aħmar, Santa Venera
+way;358589994;0x130e5008b6e4efa9:0x81f65a0e9ac2ac70;Triq Salib Tal-Imriehel
+node;4464810689;0x130e5008d52669ef:0x69bd2dd80f0031c4;Malta Gaming Authority, Smart City Malta SCM 02-03 Lvl4, SCM 1001
+node;4281421677;0x130e500a110901c9:0x8c982872a978a4f4;F Zammit Garden Centre, Triq Valletta, F. Zammit Garden Centre, Qormi
+way;350468934;0x130e500f0620aa47:0x597a89fde8fb97b7;NMArrigo Ltd., Triq L-Intornjatur, Birkirkara
+way;361526239;0x130e500f448dff97:0x7d6f7c562e1469b0;ESS Ltd., Triq San Ġwakkin, BKR3000, Mriehel
+way;192267207;0x130e500f4699f973:0x6d7c46b9e052342a;Alberta Group, Triq San Ġwakkin, BKR3000, Mriehel
+way;251460365;0x130e500fbc7b2df7:0xa72648b5a7fecc2;GFI Software, Territorials, BKR 3000, Imriehel
+way;46110025;0x130e5010109e65f3:0xb9d056ee65a3c1e0;PM Hobby, Mriehel Bypass, BKR3000, Birkirkara
+node;983409433;0x130e5018907aada1:0x6133f32ae2659ab0;Mezzanin Wine Bar, Ħal Balzan
+node;983409426;0x130e5018e6794179:0xdd2d86140d6244ca;Zmerc Pub, Triq Birbal, Hal Balzan
+node;7862890282;0x130e5018e6bfbe05:0x264d4a6d052d5daf;Mint Health & Dental, Triq Birbal, Ħal Balzan
+node;7891274979;0x130e501905fcd915:0xd9fe88c64301a318;Triq il-Ferrovija il-Qadima, Birkirkara
+node;7862890281;0x130e501939bac8b5:0xedffb322df0f75b0;Quest, Triq Birbal 135, Ħal Balzan
+way;402745524;0x130e50198f843937:0xfcb22a7d75e291f1;Embassy of Libya, Triq L-Imdina, Balzan
+way;843938948;0x130e501a5cf8e895:0x9893cd1619157f44;Malta Financial Services Authority, Triq L-Imdina, Birkirkara
+way;343261732;0x130e501b7becc7ef:0x980aa91e30ad60e2;St Aloysius College Sixth Form, Triq il-Kullegg, Birkirkara
+node;7862897510;0x130e501c0f1ff8eb:0xa17fe6d8a815be45;TechWorld, Triq il-Kbira 40, Ħal Balzan
+node;2798737980;0x130e501c796b79d7:0xb0d7ddd3e1260f6f;Costa, Ħal Balzan
+node;2798830347;0x130e501e669f3691:0xaaa6a2e5cc195468;Cosecasa, Ħal Balzan
+node;5302299578;0x130e501e75226387:0x560111d92a120bc2;Smart, Triq In-Naxxar, Ħal Balzan
+node;2798830341;0x130e501ea8def389:0x8276729784bd91ef;Il-Qronfla, Ħal Balzan
+node;2798830340;0x130e501ea8ea0933:0xf162790b59279283;Balzan Pharmacy, Ħal Balzan
+node;7876352104;0x130e501ec424ed3d:0x71aa019725471eb3;TACS Malta, Triq il-Kbira, Ħal Balzan
+node;2798808850;0x130e501edc293539:0x57d234a4f3716ccb;Balzan Youths Football Club, Ħal Balzan
+node;2798809898;0x130e501edd9decfd:0x8d0a466f53a94444;Rojolin, Ħal Balzan
+node;2798809897;0x130e501edeb641d3:0xd891bdf171924463;Socjeta Filarmonika Marija Annunzjata Balzan A.D. 1890, Ħal Balzan
+node;2796466412;0x130e501edf050a9f:0xe0e4423de6026281;Balzan Police Station, Triq it-Tlett Knejjes, Ħal Balzan
+node;803668891;0x130e501ee7fa576f:0x23e5988281d1eed1;Kola Store, Triq il-Kbira, Ħal Balzan
+way;222341546;0x130e501f18c18787:0xb5b1f71a74f335;Balzan Parish Church, Triq il-Kbira, Ħal Balzan
+node;804649383;0x130e501f196b133f:0x563a6e80caea7bc2;Fra Guzeppe Wine Bar, Triq Dun Spir Sammut, Ħal Balzan
+node;2796469742;0x130e501f1c2f7dbb:0x9c8f6926175863cd;Steve Stationery and Bazaar, Triq Dun Spir Sammut, Ħal Balzan
+node;7762575885;0x130e501f23c55555:0x82790cba3d52e693;Carolina's Petit Cafe, Pjazza Bertu Fenech 79/80, Balzan, Malta
+node;2798808849;0x130e501f3dfd8447:0xffd5a33d81c1ba1b;Kazin tal-Banda San Gabriel, Ħal Balzan
+node;7862897511;0x130e501f40f1890b:0xa75afba4047ea063;Aurora Hall, Triq il-Kbira, Ħal Balzan
+node;2798786293;0x130e501f46b03041:0x253ac7a299790c1e;Talaham.com Butcher Shop, Triq San Valentin 1, Ħal Balzan
+way;488414476;0x130e501f5b879a5f:0xf7b5436dffeb9de8;Church of the Assumption of the Blessed Virgin Mary, Triq il-Kbira, Ħal Balzan
+way;469899974;0x130e501fa18f9b6b:0x75eef1b7091b07d0;Triq Antonio Bosio, L-Imsida
+way;397511479;0x130e50202f5b17fb:0x588cbd489208654d;Malta University Residence, Triq Robert Mifsud Bonnici, Ħal Lija
+node;988303882;0x130e502052f70097:0x696ac2181887f689;Balzan/ Lija Post Office, Mikelang Borg, Ħal Lija
+way;387009977;0x130e50205649d695:0xc1e547fc97d48cce;Villa Macedonia, Ħal Balzan
+node;2798800156;0x130e5021e49c306f:0xab6fcc044e0d082a;Skarpoli, Ħal Balzan
+node;3560043385;0x130e5021ebe8f32d:0x3b93df73a0abb641;Attard
+way;275472003;0x130e50221d5aaadd:0x2af771042479ccc6;Casa Borg, Ħal Balzan
+node;7862890280;0x130e50224b0d37f3:0x55db566e57f91fae;Berġa tas-Saħħa ta' Ħ'Attard, Triq Birkirkara, Ħ'Attard
+way;283731821;0x130e502269935033:0x7bb1bfa3734b7c4;Ġnien Ħal Warda, Ħ'Attard
+node;7876352100;0x130e502345fa652d:0xb1f5ad53c1c8a4bb;American Embassy Residence, Triq Sant'Anton, Ħ'Attard
+node;2798910077;0x130e5023c9f8fc83:0xdf60a0de7ea38db6;President's Kitchen Gardens, Ħal Balzan
+node;7862897517;0x130e5024e2754cfd:0x54d4dd6035665002;Dr. Trevor's Veterinary Clinic, Triq Kananea 56, Ħ'Attard
+way;289909248;0x130e502823a2053d:0xd73a232bede3f681;PAMA Shopping Mall, Valletta Road, MST 9017, Mosta
+way;554854869;0x130e5029a57d12f3:0xf11cedd1c10104d3;Triq Il-Waqqafa, 4486, Mosta
+way;486101152;0x130e502a8da3f22f:0xae565d5a01c2f8ea;Il-Gzari Blk A4
+node;7849420164;0x130e502ffb3b126f:0xba8c31fb5b14a2dd;APS Bank, Triq Santa Katerina, ATD 2609, Ħ'Attard
+node;7880588539;0x130e50302c1097e7:0x3e49ec087a01b625;AtoZ Electronics, Triq il-Pitkali 70, Ħ'Attard
+node;7880588546;0x130e5031da68c6a1:0x37db3da17d7da65f;Conimex, Triq il-Pitkali, Ħ'Attard
+node;7880011200;0x130e5031da8a9ceb:0x63cd344e9188f2e5;Exquisito, Triq il-Pitkali, Ħ'Attard
+node;7880011213;0x130e5031dcc026bd:0x26cbdcc06148665c;Sports Experience, Triq il-Pitkali 74, Ħ'Attard
+node;7053110992;0x130e5031dd7b66ef:0x478fe4c1088bcd5f;Misraħ Kola Pharmacy, Triq il-Pitkali, Ħ'Attard
+node;7880011232;0x130e5031e5564785:0x616f620b821daee1;Coldwell Banker, Triq il-Pitkali, Ħ'Attard
+node;7880011233;0x130e5031fa7ed2f5:0x9bb6ba4136a4b38b;Cassia Ironmongery, Triq il-Pitkali, Ħ'Attard
+node;7880588566;0x130e503210ef4489:0xef18c797e086b0e7;Phoenix Chinese Restaurant & Take-away, Triq il-Pitkali, Ħ'Attard
+node;7876352101;0x130e50335702be51:0x9663864c6eb34a6c;Farmer's Deli Organic Bistro, Triq Sant'Anton, Ħ'Attard
+node;7843709415;0x130e503aaffb2f0f:0x2919dbdade8045c0;M4 Pharmacy, Triq il-Linja, Ħ'Attard
+node;7843709416;0x130e503ab0d26417:0x620f40fb4f20b8b9;Spells, Triq Il-Linja, Ħ'Attard
+way;840580462;0x130e503ab11d88db:0x15f2c15ff9ab8f42;M4 Shopping Complex, Triq Il-Linja, Ħ'Attard
+node;7862506073;0x130e503ace8646a3:0x2a3c33769819b7d8;Excel Homes, Triq Il-Linja, Ħ'Attard
+node;7861395176;0x130e503ad6ca9195:0x7be4caf120d22d3f;Santa Lucia, Triq il-Linja, Ħ'Attard
+node;1292872942;0x130e503b15206463:0x4441db5cb8266bba;Bank of Valletta, Triq ir-Rand 2, ATD 1301, Ħ'Attard
+node;7862601407;0x130e503b166ce3e1:0x93aee4d9ba3f40ef;St. Mary Pharmacy, Triq Antonio Schembri 2, H'Attard
+node;7883538495;0x130e503b7e06a499:0x9214a30de2edd508;Ċentru Parrokkjali Papa Ġwanni Pawlu II, Triq il-Kbira, Ħ'Attard
+node;5484453823;0x130e503bb605e6ad:0x11f60b4d5811d999;wood and coal, Triq iz-Zaghfran
+node;7864127685;0x130e503c837b5a0b:0xd6adb34f2475118f;Jalie's Coffee, Cakes & Bakes, Triq Tommaso Dingli, Ħ'Attard
+node;6903962985;0x130e50427b17b1ab:0x3c312af02cd94d05;Sofra Kebab, Triq L-Imdina
+node;3387615312;0x130e50430621a76d:0x99f3b2660c46b811;Ta' Conti, Triq San Rokku
+way;697281800;0x130e50452b0b1831:0x3679c6a5a54edfad;BB de Rohan, Triq il-Kbira 11, ZBG 3201, Zebbug
+node;6969100189;0x130e5045801c122f:0xf17ee890c5be914f;Stefan's Bakery, Misraħ Muxi 32A, ZBG1420, Ħaż-Żebbuġ
+node;3180798051;0x130e5045e17c2d8d:0xb6f7059471e5d006;The Convenience Shop, Triq Mikielang Sapiano, Zebbuġ
+node;4872914524;0x130e505b331bb669:0xc9cd18ae3ddfbd78;Kazin Banda San Filep, Misrah San Filippu
+node;6903953685;0x130e5068ef89c37d:0x4ecf6f8b5b316664;Kungfu Chinese Takeaway, Triq Luret Cutajar
+node;4460999250;0x130e506931b0412b:0xed3eb8ceebd23fed;Ten Green Bottles, Triq L-Imdina, Haż-Żebbuġ
+way;330080529;0x130e506e9526685d:0x265b1f88d7110307;Pet Studio, Triq L-Imdina, ZBG9019, Haż-Żebbuġ
+node;5100285722;0x130e5074491cc2b1:0x129ec8f13fcf5045;Pc motor, Mdina
+way;274918101;0x130e507495404bd3:0xe16de5685fb8c5cc;Ħal Qormi
+node;2929095284;0x130e5074dc49aa19:0xc522b8356a2def9e;Qormi Polyclinic, Triq Il-Vitorja, QRM 2503, Qormi
+node;1061670095;0x130e50759a0a341d:0x7fce76739934a7b;Debono Car Centre, Triq Il-Karmnu, Fgura
+node;2872726892;0x130e5083500dfa79:0x54ccf5e0cb42dbee;Mqabba
+node;279159340;0x130e5092413c25cb:0xa9e1d7c2fde14aac;Police Academy Ta Kandja, Triq L-Imqabba, SGW, Siggiewi
+node;2862055275;0x130e509588fdd0ad:0xbb169f3ba10ab053;Qrendi
+way;26874450;0x130e50a920b9cddf:0x2faa2e911fbf88a0;Gnien il-Gibjun, Zurrieq
+node;6688531886;0x130e50b456679b8f:0x10446cbcdb40be86;Cassarini Restaurant, Sajjieda, QRD 3043
+node;7043722725;0x130e50e4d17a28a5:0xcc0f7f816cbbf067;Tracgozo, Triq Patri A Debono
+node;3387619774;0x130e50f0b9547d7f:0x1226f5b76766d3f0;TY's Bar, Triq San Nikola, Siggiewi
+way;139894835;0x130e50faaefd1d75:0x2d15272505e9cdbe;Siggiewi
+node;7880588558;0x130e5106f263f32d:0x7e514bd228dbeff8;Ta' Dernis Snack Bar & Pizzeria, Triq il-Pitkali, Ħ'Attard
+way;294785416;0x130e5108c7ef03c3:0x74e0249cb4599872;Chukkas Razzett l-Aħmar, Triq Durumblat, Il-Mosta
+node;2798786292;0x130e510b9bffd38b:0x14a7a56682b4491a;ARG Meat Market, Triq il-Wied 121, Birkirkara
+node;2798848343;0x130e511f31af8c85:0xca9c318efc8abcbe;Kate's Wellness, Ħal Balzan
+node;2798848342;0x130e512c2df43a63:0x8fe2f43fa800dd1f;Hair Salon, Ħal Balzan
+node;7880588551;0x130e512e95d01f01:0x62c8a925c81cba90;Crayons, Triq il-Pitkali 11, Ħ'Attard
+node;7880011212;0x130e513818772271:0x11aae597f5b169ec;Attard Fish Shop, Triq il-Pitkali, Ħ'Attard
+node;1328154310;0x130e513b98cf554b:0x450087627d52ef07;Deguara Ironmongery, Ħal Balzan
+node;4657942089;0x130e514477265d15:0x3152074b43d57878;The Fadesman Barber & Salon, Triq Lorenzo Gafà, MST 4128
+node;7880588544;0x130e514b8a8edb55:0xd6229bec5a221b6b;El Panadero, Triq il-Pitkali, Ħ'Attard
+node;7871678610;0x130e5155da42e313:0x8c585ceaad3432da;Sam Snack Bar, Triq il-Mosta, Ħ'Attard
+node;2798915896;0x130e51599cf040d7:0x35044007bca7ecf5;St Joseph Pharamacy, Triq Annibale Preca, Lija
+node;2798786294;0x130e515ad6a8e02b:0xe2ca62cc3dae7a2c;Hudson Confectionary and Daily Needs, Triq il-Kbira, Ħal Balzan
+node;585144029;0x130e5160c88f87af:0xf0fbb41cce24be82;Nigret Self Service, Triq Wied Babu 2
+node;7887623913;0x130e5162b5cb6161:0xcee076f5c2326f62;Plan-C Restobar, Triq Antonio Schembri, H'Attard
+node;2798801818;0x130e517929446899:0x523dec44340533e4;Good Shepherd Convent, Ħal Balzan
+way;463476717;0x130e517b1313b68f:0x8bd2aa7286df643f;Savio College, Triq il-Buskett, Ħad-Dingli
+node;7891274978;0x130e517d0065e16d:0x2baeb77a87a87874;NomNom, Triq il-Ferrovija il-Qadima, Birkirkara
+node;2806566545;0x130e517e681856c3:0x82337e2083ff7da7;Ħad-Dingli
+node;6903953686;0x130e518500c0cf91:0x1ba19085413daafd;Auto Market, Triq L-Imdina
+node;7862890279;0x130e5186b16a4071:0xe5b2593489a3c30d;Central Butcher, Triq Sant' Anna 2, Ħ'Attard
+node;7862897516;0x130e519023ff1963:0x8bce28ea65d9c34c;Pampered Pets, Triq Kananea, Ħ'Attard
+node;4884330321;0x130e5191077cb9c9:0x2ed64367d0fb51ec;Luxonas, Vjal il-Haddiem
+node;4231179189;0x130e5191fb4e273f:0x127a748a65e3212c;Central Pharmacy, Ghajn Kajjet, RBT 4017
+node;7803700987;0x130e51946b789f37:0xede15fe5664888ec;Triq Doni
+way;33703560;0x130e519568ce9a2f:0xc606df91f88ebe5c;Palazzo Falson, Villegaignon Street, MDN 1191, Mdina
+node;4454838191;0x130e5195bdf07319:0x580c828d341de780;No. 2 Labini, Labini 2
+node;2475298672;0x130e51968358fafd:0xf3c85f81ed66fe1e;Ristorante Cosmana Navarra, St. Paul's Street 28
+node;634465395;0x130e51969e8196f9:0xacf3a2723679640;Rabat Police Station, Triq Santa Rita 168, RBT 1528, Rabat
+node;5303592513;0x130e5196b725e171:0xa93c06ce3114fb44;Tikka, Triq Bir Ir-Riebu, Sqaq Numru 3, 15A, Rabat
+node;5527691323;0x130e5196c7aed71b:0x527d03b81371e080;Ticketoffice St. Paul's Catacombs, Trip Hal Bajjada
+way;33704272;0x130e5196edd5b3b7:0xa505bf6b5c4de379;Domus Romana, Museum Esplanade, RBT 1202
+node;5039178821;0x130e5196f3e0f749:0xae69b642b0307c5f;College Stationery, Triq il-Kulleġġ 35
+way;293514210;0x130e519ea629e44b:0xbc78decc99a67620;Maple farm B&B, Triq Il-Buskett, RBT 2705, Ir-Rabat
+way;843938947;0x130e51af9cfe5ebf:0xc886f9a70f49584;Fort Business Center, Triq l-Intornjatur, Birkirkara
+node;5270463847;0x130e51be155f85ed:0xc0cf334dda9542ea;Fork & Cork, Telgha Tas-Saqqajja
+node;6324870612;0x130e51be1c10a635:0xae1abb80e0d75111;Bank of Valletta, Is-Saqqajja 20, RBT 1190, Ir-Rabat
+way;223120541;0x130e51be369a6177:0xbcacb5ee528dfcb5;Rabat Playground, Rabat
+node;7880011226;0x130e51bf1d8a8c25:0xb4e050deddca0a5b;Tenderfresh Butcher, Triq il-Pitkali, Ħ'Attard
+way;33703555;0x130e51bf94be158b:0xa5cf6fcd0385420c;Mdina Cathedral Museum, Archbishop Square, Mdina
+node;3258628983;0x130e51bfb8dffb59:0x626e722aeb7bb7aa;de Mondion, Misrah Il-Kunsill, Mdina
+node;559270353;0x130e51bfb9cc9ebf:0xec6473479ea69da3;Trattoria A.D. 1530, Mdina
+node;301379326;0x130e51bfc94c3345:0xf688d148d1d48f87;National Museum of Natural History, Pjazza San Publiju, Mdina
+node;3258628982;0x130e51bfdd71b56b:0x6167353b5f41afc1;The Xara Palace Relais & Chateaux, Misrah Il-Kunsill, Mdina
+node;6271965285;0x130e51bfdffa2117:0x3ea6b28d39bf53e7;The Mdina experience, Misraħ Mesquita 7
+node;2475805940;0x130e51bfe3f880ab:0xfe693003eb2749a2;Medina Restaurant, Holy Cross Street 7, Mdina
+node;4224284838;0x130e51bfe5a03df7:0xa48d816c3735c537;Triq Villegaignon
+node;5915751985;0x130e51bfe822fc2b:0xadfc1652eb663bd9;Bar One, Triq Villegaignon
+node;2464506564;0x130e51bff9318a83:0xdf2ecfffc9cc4ab8;Palazzo de Piro, Mdina
+node;2472720772;0x130e51bff9a7ed41:0x427279317506e41b;Rosmarino, Triq Villegaignon, Mdina
+way;33703558;0x130e51bffb6d8937:0x2b3bb79dbc4e4ff7;Carmelite Priory, Villegaignon Street, Mdina
+node;2472720714;0x130e51c00a08dfd7:0xf8305cc684652c30;Vinum Wine Bar, Bastion Street 1, Mdina
+way;222920947;0x130e51c00a1ac225:0x582a7a8a0ffee6bb;Fontanella Tea Garden, Mdina
+node;7862897513;0x130e51c2a9d34fcd:0x2016d682d085f11e;Adverteyes, Triq Kananea, Ħ'Attard
+way;513521386;0x130e51ca8e222a8d:0xbb23bbdd89b35ba6;Madonna tal-Vitorja, Triq L-Imdina, Ħ'Attard
+node;3280722408;0x130e51ce797976c9:0xf7f069820d710aca;Ta' Qali
+way;274210252;0x130e51d201c33023:0x6a70badb378e8077;BOV Adventure Park, Ta' Qali
+way;48396845;0x130e51d5de2737bf:0x3bc4166272186356;Tal-Blata l-Gholja, Mosta
+node;3834476049;0x130e51d6a7b08e85:0xc3e6ef06d0f2e7ff;Badass Burgers, 1, St. Julians
+way;282266967;0x130e51ea1755e893:0xd81eb89f077b9cae;Mtarfa
+node;7876352102;0x130e51f0e7a27e2b:0x100b1c40994cc786;Villa Bologna Pottery, Triq Sant'Anton, Ħ'Attard
+node;7862897514;0x130e51f46cb3fab3:0xc0aa52fc1e9cb3f;CarePlus Medics, Triq Kananea, Ħ'Attard
+way;222387365;0x130e53d670cb942d:0x3e7bd11a62a836c9;Ġnien il-Familja, Ħad-Dingli
+node;4969354725;0x130e5a0986ce53e1:0x6d2e0b43064fc809;Salus Pharmacy, Misraħ ir-Repubblika 35/36, ZRQ 1012
+way;320794070;0x130e5a0d16c2958d:0xcf1567d8059c1c40;Żurrieq
+way;321340653;0x130e5a538a6193e3:0xd7b1332ee9fd5801;Ħal Għaxaq
+node;4716718589;0x130e5a54ab21b5ff:0x1f348fb6aa197543;Informatica, Triq Il Bwar, Ħal Għaxaq
+node;5322097914;0x130e5a55b3ace55f:0x38f3c21c65e3eed1;St Philips Pharmacy, Ċeppun, Ħal Għaxaq
+node;2813340567;0x130e5a5844d900ab:0x4c66f049e1427b06;Gudja
+way;76913125;0x130e5a5eab46a325:0x77a34e60e88f1c6d;Gnien Raymond Caruana, Gudja
+node;1609109211;0x130e5a5ed8529103:0x2e7f33ca7cd2151c;Ta' Scicluna Farmhouse, Triq Bir Miftuh
+way;279281559;0x130e5a65460a0b69:0xd2a2e4e441bc150e;Ħal Kirkop
+node;3738798651;0x130e5a6ade4618ad:0xc06ed431ec5c3ce;Ħal Safi
+way;138257951;0x130e5a72808b3e23:0xb70cd39b5f96da83;Lidl - Kirkop, Triq San Gwann, Zurrieq
+way;198564463;0x130e5a8682f6f729:0xc0ccf1cb81369f2e;DHL International Limited, LQA 3290, Luqa
+way;137719000;0x130e5a88b11bd981:0x310cfa5ca219d06;Lidl, Triq il-Karmnu, LQA 1311, Luqa
+way;471122905;0x130e5a8ec9e0f7c9:0xfb517af40ed5ce6f;MUSEUM, Triq ir-Rixtellu 35, Ħal Luqa
+node;3463497019;0x130e5a9552d56733:0xaf82d8589cbde81b;SCAN Malta, Triq Dun Karm
+way;23941312;0x130e5a9637ac626b:0xc0ca3740b7b959b6;Royal Malta Golf Club, Aldo Moro, MRS9064, Marsa
+way;137714407;0x130e5a9b3b6800d1:0x6ee9a282191ae17;Triq Hal-Farruġ, LQA 1039
+node;286272481;0x130e5aa0927c44db:0x82e1b6009d22ce6d;1743 Razzett l-Antik, Valley Road
+node;2632084080;0x130e5aa09a11f0bd:0xa7d147bb94b82028;Emanuel's Bakery, Triq il-Mithna, QRM03, Qormi
+node;4502612592;0x130e5aa1613d6609:0xc5c5bd6a74be4e9a;Ta' Doughnuts, P.Farrugia
+node;5426210416;0x130e5aa1c30bf4ef:0x4f631ae81540f901;Qormi Veterinary Clinic, San Bastjan 74
+node;2806037254;0x130e5aa2c73603af:0xc730203a9329f50c;Lidl, Triq l-Iljun, QRM 9061, Qormi
+node;1313965434;0x130e5aa55cf7cdf9:0x79c556d7e4d5c6fc;St. Venera Church, Santa Venera
+way;285185726;0x130e5aa5e55eeb01:0x47b6157e7e24322b;Santa Venera
+way;462572197;0x130e5aa68b70f42b:0xbc1f158404584cb4;World Marketing, Triq il-Kanun Fritz CBC, St. Venera
+node;6045011350;0x130e5aa7192774e7:0xfb4cac3446542cc3;Pwc Malta, 78
+way;52162095;0x130e5aa794ef73f7:0xbb32728fa66ba496;St Michael School, Triq il-Kanun, Qormi
+node;1312748147;0x130e5aa81f422d05:0xa63f09444da136e5;Bank of Valletta, Triq Fleur-de-Lys 229, BKR 9069, Birkirkara
+node;4502633789;0x130e5aa9e53522fb:0x1af5088e3008c7f0;Maypole Birkirkara, Triq Salvu Psaila, BKR 3089
+node;4823372121;0x130e5aab12329bc9:0x9bf177bd1a002c21;Charles bar, Triq Mro. Camilleri
+node;7872535901;0x130e5aab2dbd3c47:0x6db2f43776bc0c0b;Grant Thornton Malta, Triq l-Intornjatur, Birkirkara
+way;295213630;0x130e5aab60445501:0x6f87b013af772a2d;Swatar
+node;1312748139;0x130e5aadc5954133:0x58586d2369a1826d;Fiat, Triq Salvu Psaila
+node;4502638491;0x130e5aade5a93e5f:0x509e06a591ae15d6;Dizz, Triq Il- Harrub
+node;4502599390;0x130e5aaead907f23:0x9fa357675eb8e5db;David's Imports, Triq Il-Parilja
+node;4502530590;0x130e5aaf096da333:0x698465e421815e41;Lantern Pharmacy, Misraħ il-Kebbies 46
+node;4502580389;0x130e5aaf20c23b9b:0x35973a80341610a8;Sierra Book Distributors, Quarrie St
+node;5185614922;0x130e5aaf5ff94a13:0xa091b3afead0ffd9;Santa Venera Day Centre, Triq il-Karmelitani
+node;6518752289;0x130e5ab08d6c92a3:0xa661b84f9ae3dfbe;Alfsons Enterprises Limited, Triq Ġuże' Pace 5, Il-Ħamrun
+way;283344060;0x130e5ab1c220a2c1:0x213adb256d5b6977;Lidl, Triq Misrah Il-Barrieri, SVR 1759, Santa Venera
+node;4502638492;0x130e5ab262182a79:0x8e958809c0165981;All Malta Online, Triq Il-Wied Ta' L-Imsida 125, MSD 9027
+node;5097003109;0x130e5ab2befc6d65:0xd26fb533eadaf5bb;Happy Shopper, Triq L Zamenhof, Msida
+node;3234192508;0x130e5ab2dfb83ee3:0x7c3576328d10af13;Immaculate Conception Chapel, Triq L-Imdina
+way;511154053;0x130e5ab2fd25db21:0xa163133fb1d08ae6;Triq Il-Wied Ta' L-Imsida, Msida
+node;5097003106;0x130e5ab363b428f7:0xda946e1f4f8f7b0f;Sweet Cottage Confectionery, Ta' Xbiex Sea Front 2A, Msida
+node;3566310921;0x130e5ab36471e723:0x4d6f7f85c6c342a3;Msida Police, Triq D'argens, MSD 1369, Msida
+way;275688224;0x130e5ab37fd22c9b:0xb1fa5258b78209a3;Msida Playground, Msida
+node;3147072436;0x130e5ab3c1df90eb:0x5754adb6bd5f3bb8;Curly Wurly, Triq Misraħ il-Barrieri, L-Imsida
+node;6564664366;0x130e5ab40206d62b:0x44b3a02db55213ef;Lifelong Learning Centre, Triq Qrejten
+node;1501895885;0x130e5ab443ad3609:0xb6e36fa937560b2b;Malta Post, Telgħet Gwardamangia, PTA 1310, Tal-Pietà
+node;382217183;0x130e5ab466ee28cb:0x2cf246511b9b5bf4;Jon's Pastizzeria, Msida Sea Front 3, Msida
+node;5097003103;0x130e5ab47c41b13d:0x9cc5f7be38037689;Buttiġieġ Tobacconist Msida, Msida Sea Front 19, Msida
+node;6945893166;0x130e5ab4bdf5cf4d:0x9e2e2184b2e1a571;Pasta & Co Ristorante, Xatt ta' Ta' Xbiex, L-Imsida
+node;5929201723;0x130e5ab4bdfaf66b:0x5f89384457d25b7c;Busy Bee Gelateria, Xatt ta' Ta' Xbiex 19, MSD 1512, L-Imsida
+node;5894270938;0x130e5ab4be5ae7df:0xf4690182dc619a12;Genki, Ta' Xbiex Seafront 21, MSD 1513, L-Imsida
+node;1511894303;0x130e5ab4c090f2d9:0xc4234bab77e5c910;Busy Bee, ix-Xatt Ta' Xbiex 30, MSD 1513, L-Imsida
+way;739055923;0x130e5ab709e411b9:0x37737e63d3feb64;Saint Martin's Institute, Schembri, HMR 1541, Hamrun
+way;275876162;0x130e5ab994ce70cb:0xae88ee03bcdfb680;HSBC Bank - Hamrun Branch, Ħamrun
+node;5790653660;0x130e5aba21458627:0x54ed82ec3b6a5c3;Joseph Cauchi Ironmongery, Triq Cordina Perez 9
+way;139435691;0x130e5aba66b52c49:0x756c32d1b1014109;Hamrun Chuch - San Gaetano, Ħamrun
+node;4891464523;0x130e5aba8547c749:0xa69f62dc1782128f;BOV, Triq il-Kbira San Ġużepp
+node;2214546268;0x130e5abbd213c551:0x44291711358d7ff6;vical interiors, Triq Hal-Qormi 84
+node;3999315624;0x130e5abd7e8b06f1:0xd78827563bda459e;Marsa Sports Club/Chukkas, Marsa
+node;1116589867;0x130e5aca39a6cdf9:0x8337e59fa456023f;Antonio Piscopo Co. Ltd, Triq Haz-Zabbar 117, Paola
+node;7279181009;0x130e5accdb5ac955:0x6aa8f8d3eeb33945;Office of the Commissioner for Revenue, Triq Vincenzo Dimech Block 4, FRN 1900, Floriana
+node;7257553402;0x130e5accfb00f22b:0xb0087d2d38a8fb34;Tritoni Boutique Hotel, Triq Vincenzo Dimech 33, FRN 0170, Floriana
+way;39000485;0x130e5acdbf5468f7:0xf701eeec68ff9df9;St. Publius Parish Church, Pjazza San Publju
+node;7041397694;0x130e5acdd0b8ee1f:0xcc8eceee0b94b48c;Chemimart, Triq Sant'Anna
+way;554868166;0x130e5acdf06b2cf7:0x2b6c322de34f8e89;Triq il-Kapuċċini, 1551, Marsa
+node;156496732;0x130e5ace70f76c0d:0xd54a00be68fef31f;Floriana Health Centre, Triq Frangisk Saver Fenech, Floriana
+way;334469303;0x130e5ace96feeb71:0x646aa72d41b83541;Planning Authority, St Francis Ravelin, 1230, Floriana
+node;5484406423;0x130e5ad201adb66f:0xa1689303aefd06c0;Bistro 516, Valletta Waterfront
+node;6315718774;0x130e5ad276bd70a5:0xa5103b1b4941e736;Ambasciata d'Italia, Triq Vilhena 5, FRN 1040, Valletta
+way;139518745;0x130e5ad2d36fb8b3:0x34ef46b196f7240f;Central Bank of Malta, Castille Place, VLT 1060, Valletta
+way;478817380;0x130e5ad2f81c3391:0xa375aa642f9177a7;Sir Paul Boffa, Sqaq Harper, FRN 1941, Il-Furjana
+way;31233185;0x130e5ad34b18a8c7:0x88672bb55bc3cf43;Malta Stock Exchange, Castille Place Garisson Chapel
+node;4365936496;0x130e5ad5d293d2d9:0xb37199d104343c23;Grand Harbour Vista, Triq is-Sirena 42, ISL-1461
+way;308763341;0x130e5ad93a51d857:0x706e13a70c342633;Raħal Ġdid
+way;367778319;0x130e5add02764fe3:0x86a4ca7d805b563c;Sant Antnin Church, Ghajn Dwieli, Pjazza Sant'Antnin, PLA1962, Paola
+way;138344467;0x130e5add1609e5b3:0x50a01e4b95c8c391;Mariam Al-Batool Mosque, Triq Kordin
+node;3336116494;0x130e5ae139b5f00d:0xfd92857a067460ca;MEATS & EATS Gourmet Butcher, Dingli Street 75, Sliema
+way;155259323;0x130e5ae408422a3b:0x10e664c3a513e416;Tarxien
+node;4356596489;0x130e5ae597f1356f:0x4ea15019aeaf6bef;J & N Marine, L-Iskola
+node;4222351212;0x130e5ae5cc5871cd:0x869207f30bb36348;Bellas Stationery, Triq Paola 74C, TARXIEN
+node;1112950022;0x130e5ae883396443:0xf0d0f6f483a98305;Paola Health Center, Triq Il-Foss, FGR1017, Paola
+node;2779215434;0x130e5ae88b40f12d:0xd431da6ead32bdde;M.U.S.E.U.M. - Paola, Triq l-Arkata 23, Rahal Gdid
+way;386844095;0x130e5ae8b08ea5cb:0x164d160ae628ea;L-Ipoġew ta' Ħal Saflieni, Triq ic-Cimiterju, PLA 1116
+node;3801977194;0x130e5aef1116a76f:0x984738eb33d680ed;Smash Radio, Triq Tax-Xewk, Raħal Ġdid
+node;4230856589;0x130e5aef6671484f:0xbf2b23bdc921f393;Dreads Hairdressing, Triq Imbroll 1, PLA1373
+way;279285941;0x130e5af0ce05e911:0x558aa5f9b62f3e3;Santa Luċija
+way;24209417;0x130e5af23ba60c5d:0x936157b5db739a1d;Skola Sekondarja Santa Luċija, Triq il-Kahwiela
+way;42448606;0x130e5b00ee716d25:0x56abd1122d66f6e0;Lidl, Tal-Barrani Road, Ghaxaq
+node;4692646991;0x130e5b025f3e2083:0xdd5fd6f7a1b3a817;Kalkara Police, Misrah l-Arcisqof Gonzi 6, KKR 1513, Kalkara
+node;6635222525;0x130e5b026527adb7:0xf357591fa6d9232f;Empire General Store, Triq Antonio Bosio
+node;3281654519;0x130e5b0ce7126507:0xe669fd3c49fbac37;St. Catherine's Pharmacy, Triq Il-Qadi, Zejtun
+way;223386761;0x130e5b0ef878cc63:0xa42ccd676853d38a;Żejtun
+node;3673623814;0x130e5b1f2fe7c8e1:0x3df1752127a7ec77;Kitz Klikz, Triq Titu Brandsma 3, fgr2131, Fgura
+node;3398303706;0x130e5b1ff8bcdc5f:0x4a50a981f4e55744;Houseproud Stores, Triq San Tumas 145
+node;4193020910;0x130e5b218bf2c4ab:0x5ef3ef0bb0412de3;the knot, Kottoner Avenue, Fgura
+node;4193020913;0x130e5b21929b4e45:0xd40dc49dde42fd65;big beeper hardware store, Kottoner Avenue, Fgura
+node;4193020911;0x130e5b222b7fe357:0xd8638bf3e1afeae;réverie, Kottoner Avenue, Fgura
+node;1154318268;0x130e5b2774f86b99:0x9d27cf9f9fafde20;Cospicua Health Centre, Triq L Jun, Cospicua
+node;2397004294;0x130e5b27cf668905:0x7b4e7ace7fd60455;Casa Birmula, Kuncizzjoni 3-5, BML 2064, Bormla
+node;7041583843;0x130e5b281de4b243:0x3f66f8ff8ec1acd2;Centru Familja Mqaddsa, Triq Johnny Catania
+node;4190296764;0x130e5b2916869249:0xf36fada852f97301;Locanda La Gelsomina, Triq il-Kunsill Popolari 3, BRG 1131, Birgu
+node;2530469486;0x130e5b293e22acf3:0x995d7a550ed63954;Indulgence Divine, Triq Alessandru VII, BRG 1105, Vittoriosa Birgu
+node;6659782485;0x130e5b29681e4483:0x7e5c0775473da70e;Tal-Petut, Triq Pacifiku Scicluna 20
+node;2476972115;0x130e5b29716f876b:0x49caa3a505fd41ce;dCentre, Triq il-Mina il-Kbira 2, Birgu
+node;2334290384;0x130e5b29795b1f85:0x53dd181b61b88d4b;Cafe du Brazil, Vittoriosa Birgu
+node;6236973586;0x130e5b297bd541e7:0xf56159ef7a26b130;L-Arlogg Cafè & Bistro, Triq P. Boffa
+node;690937561;0x130e5b2995d58d51:0x34a1cd5034096836;Maritime Museum, BRG 1721, Vittoriosa Birgu
+node;6236953585;0x130e5b29af3b2c2b:0xecff301f85beb762;Old City Pub, Triq San Lawrenz 104
+node;2485604338;0x130e5b29f32fa597:0x1cb62ab432623db6;Sottovento Ristorante Pizzeria, Ix-Xatt tal-Birgu, BRG 1721, Vittoriosa Birgu
+node;690937559;0x130e5b29f57dbda3:0x2b01199de0d82925;Casino di Venezia, Ix-Xatt-tal-Birgu, Birgu
+node;2485605683;0x130e5b2a1fe0ee03:0x9766843198b7a416;Cargo Bar & Dine, Ix-Xatt tal-Birgu, BRG 1721, Vittoriosa Birgu
+node;4508807392;0x130e5b2b658b57d1:0x72ff17f75fa71692;Esplora, Triq Marina, KKR 1320
+node;4351354095;0x130e5b2e91eed4d3:0xb814a1b7065b7d2e;Schola Direct, Triq il-Genista
+node;4887085592;0x130e5b397f749f23:0xc547393849a5477e;KHS Megastore, Triq Castaldi 54, ZBR1453, Żabbar
+node;197518642;0x130e5b3c0797b1bd:0xb412080122add4e8;Triq iċ-Ċawsli, Zabbar
+node;1156266676;0x130e5b3e187746b7:0x5ab1e2d31bb28f49;Top Choice, Triq Villabate, Zabbar
+node;6227177585;0x130e5b3ec076b637:0x12fc23f18df3de4;St. James pharmacy, Misraħ San Ġakbu 1, Ħaż-Żabbar
+node;2822413915;0x130e5b48f92bcb29:0x562115c92568f22b;Zabbar
+way;389553707;0x130e5b4a41e2ebd5:0x17a300f6683c7fa3;Ix-Xgħajra
+node;6368161885;0x130e5b4bbda270c5:0xd6abb6fc8422b7fa;Triq il-Mulett
+node;6765235787;0x130e5b611409565f:0xf73c85a79381c031;ottoman by posh turkish, Triq is-Santwarju
+way;279285774;0x130e5b63f47548b1:0xecf7236ea43d8d16;Marsaskala
+way;151998600;0x130e5b63ff141f0d:0xd74cfe149b9d76d3;Inspire Therapy & Leisure Centre, Zinzell Street, MSK 4070, Marsaskala
+way;395232816;0x130e5b6432a6e12f:0x360ac9e74be1a103;Inspire Charity Shop, Triq iz-Zinzell, Marsaskala
+node;4502573290;0x130e5b64dd5e0eb9:0x4ce367f0fbf1b52e;Pascucci, Triq L-Omnibus
+node;3281655837;0x130e5b66b8a3b41f:0xacb47a777179f6d7;Bellavista Pharmacy, Triq Salvu Buhagiar, Marsaskala
+node;4376770091;0x130e5b6b1d7d1bc1:0xceb78d8342adc064;Pyramid Childcare Center, Triq Censu Decandia
+node;585144030;0x130e5b6de6a24e33:0x4e224f2a3601dcec;Zurrieq Police Station, Triq Santa Katerina 175, 177, ZRQ 1089, Zurrieq
+way;277496981;0x130e5b6f165a0a77:0x1d4b84442573ec87;Sant'Antnin Family Park, Marsaskala
+node;6090121790;0x130e5b6ff683de15:0x6ceabe8b6b86eb65;Friends of the Earth Malta, Xatt Ic-Cangatura
+way;154523003;0x130e5b74da0222b5:0xc1a381e3c7d7a071;Medelec, Bulebel Industrial Estate B33, ZTN 3000, Żejtun
+node;5287032326;0x130e5b7d3704aa2b:0x24c2d030f4f2e8f;Tal Familja restaurant, Triq Il-Gardiel
+way;373219463;0x130e5b7d605a3d1f:0x388cd582ad98e6e;San Tomaso Restaurant, Triq il-Qaliet, Marsascala
+node;6948511785;0x130e5b84d4a87d8b:0xa42da01a8951e306;Birgi, Triq San Lawrenz 97
+node;1395201143;0x130e5b983fd5ae49:0x9f6b4f96d93d643a;Southport, Xatt is-Sajjieda, Marsaxlokk
+node;1426790734;0x130e5b98421c48a1:0x969e1ed7778ab19;Marsaxlokk Police, Xatt is-Sajjieda 90, Marsaxlokk
+node;1426810625;0x130e5b9843f7d48d:0xc8c8f7c8bceaca3a;Pisces, Xatt is-Sajjieda 89, Marsaxlokk
+node;1450520758;0x130e5b9844e0c169:0x64943ef69ddeb7bb;la Nostra Padrona, Xatt is-Sajjieda 87, Marsaxlokk
+node;1426810634;0x130e5b98fd345c79:0xbc8f292d56c056be;Costa, Triq iz-Zejtun, Marsaxlokk
+node;4485088804;0x130e5b991ec984f7:0x45b7571eadc07ebe;Tartarun, Xatt is-Sajjieda 29
+node;2464371263;0x130e5ba2a7f7e2b1:0x8c8387d6ba6329d1;Harbour Lodge, Triq San Piju V 38, MXK1472, Marsaxlokk
+node;7203339588;0x130e5bb05dc8e9e3:0xfa29c884b0bf6218;Malta Office Chairs and More, Triq il-Belt Valletta, QRM3613, Qormi
+node;3864931382;0x130e5bb7ef5b732f:0xc2664983d3c6a374;Xtremefishing Malta, Triq San Gorg, Birzebbuga
+node;1430995075;0x130e5bb802e9fd1b:0xc68e9ad9cbfff1d5;Kunsill Lokali Birzebbuga, Triq Santa Marija, BBG 1651
+node;5902149137;0x130e5bb8ac52dfb7:0xe3e984017e44ad09;Happy Wok, Xatt ta' Ta' Xbiex 15
+way;788972693;0x130e5bc3257d1627:0xc23f16a579169d15;Chain Supermarket, Triq L-Inhasa, ZBR2853, Zabbar
+node;2485599583;0x130e5bc51e1a95e3:0x3e3ffa186cf66cd3;Twist ice cream parlour, Ix-Xatt tal-Birgu, BRG 1721, Vittoriosa Birgu
+node;7171400978;0x130e5bc8253833b1:0x6f5f0ea8497cd811;Inspire Charity Shop, Triq Żaren Dalli, Birżebbugia
+node;1335500737;0x130e5bc8d2116de7:0x84636b11b5e51bb;Brittania, Triq il-Bajja s-Sabiħa 5
+node;4829238375;0x130e5bc9c915b5df:0xce3036941905697e;kina bakery and confectionery, San Ġużepp, Birżebbuġa
+way;321984585;0x130e5bcc05111073:0xac8d8d18f6d83fd9;Birżebbugia
+node;1428099596;0x130e5bcf35e6221b:0xf3099cbb7b82a970;Reno's Bar & Restaurant, Triq San Patrizju 1
+node;3587337139;0x130e5bdad49e9f1f:0xc96e20672dbc0394;Ministry for Transport & Infrastracture, block B
+node;667270015;0x130e5be1eeccaad3:0x47435843d4286ef7;RMF, Telgħet Gwardamangia
+way;722920588;0x130e5be1f6cdfbe5:0x9511daa47b09ca3a;Saint James Hospital, Tal-Hotba 3, ZTN 9090, Iż-Żejtun
+node;4193020912;0x130e5be5497b8ac9:0x9b09b684f67cad42;avant garde hair and beauty salon, Kottoner Avenue, Fgura
+way;275876161;0x130e5beb0e54accd:0x70caf1b0724ce34a;Daniel's Shopping Complex, Ħamrun
+node;7099545157;0x130e5df450a51f75:0xfba1ffb5c42eb053;C'est La Vie Guesthouse, Triq is-Sajjieda, Wied il-Għajn
+way;222724489;0x130fb4127f9897eb:0xb19f676eb0c718b5;Torri tax-Xlendi, Xlendi, Munxar
+way;140412841;0x130fb42b43aef929:0xd5a3d76638a6c583;Il-Qatra, Triq Santu Pietru, GRB 1506, Gharb
+node;6886666379;0x130fb42e66298cd7:0xb9eed1dc911d2739;Shanti Ghar Gozo B&B, Triq Il Gebla, Tal General, San Lawrenz
+node;4231437927;0x130fb441d2ee73c1:0xf4fde7f8305d1072;BELS Busines English Language School, Triq ta Doti, 1721
+node;6874155185;0x130fb4439a28cde9:0x4ad8d2a7b03ace1e;Tender B&B, Torri
+node;2474165743;0x130fb457fa91eee9:0x4f03095bd5dd0dc4;Cafe San Martino, Victoria
+node;325815324;0x130fb457fe51408f:0x8173213c67eafea5;Museum of Archaeology, Triq Bieb l-Imdina, VCT 1831
+node;6690035085;0x130fb45837a69fa9:0x517f483de26c4dca;Maldonado Bistro, Mons Vella 18
+node;4678368790;0x130fb458747baeed:0x878a51497c7b2f0c;Kafè San Gorg, Pjazza San Ġorġ
+node;6690032485;0x130fb4587490f01f:0x842e125561fc2492;Tepie’s Coffee Bar, Pjazza San Ġorġ
+node;324400945;0x130fb4598e3182d3:0x88f882bef8d821af;Ta Dirjanu Supermarket, 21565927
+way;274209981;0x130fb461a74fcf47:0xe54f6f152b876b52;Munxar Playground, Munxar
+node;324401513;0x130fb46ce674259d:0x2d46b8f4a4ac0613;Ping's Dining (closed), Triq Ix-Xlendi, Xlendi, Munxar
+node;2464318554;0x130fb485591593f9:0xcb7ef24de9b1ff2b;Il-Girna Residence, Triq ta' Skerla 5, VCT 112, Sannat
+way;379531495;0x130fb48a78f96429:0xe1732e3746e8f456;Sannat
+node;4762039131;0x130fb4b4b1221ee3:0x5c8bac4e551557d0;Globetrotters Homestay, Triq ta' Cordina 28
+node;4287113391;0x130fb4c046c05349:0xe8405daf80d2dc3b;Gozo Chemists Pharmacy, Triq l-Imgarr
+node;1907045440;0x130fb4cc9a5f0e33:0x3db5e694099d42e2;Ta' Kenuna, Triq it-Torri ta' Kenuna
+way;131244451;0x130fb4d8662c11af:0xd81b90ff8371a4d3;Xagħra
+node;6550752583;0x130fb4e3ec3e73d5:0x3eb64f9b26758729;Bellavista Farmhouses Gozo, Sruġ, 1346, Ix-Xagħra
+node;2180460174;0x130fb4e97804382d:0xf98f1944cf58ccd2;Cini Tal-Mija, St. Leonard Str NB
+node;330038082;0x130fb4ead2be87b9:0x312e3f57b3313029;Xewkija Police Station, Triq l-Indipendenza 85, XWK 1028, Ix-Xewkija
+node;4874015123;0x130fb4f0c08f64eb:0x7f836e471c3b5c8a;Arcadia Foodstore, Triq Fortunato Mizzi, Ir-Rabat
+node;3966902002;0x130fb4f0c89f4c1b:0xf6cfa2fc97a7c694;Mo's Diner, Triq Fortunato Mizzi, VCT2581, Ir-Rabat
+node;6690032585;0x130fb4f0c959345f:0x57fa09b99de31971;Mojo’s, Triq Fortunato Mizzi
+node;2429274567;0x130fb4f0f56d1123:0xeb8b48e1fbd4deb2;Orienta Gozo, Fortunato Mizzi St.
+way;554827647;0x130fb4f42f6cb817:0xbdf28a4ad9f9bbcd;Triq Għajn Qatet, 2106, Victoria
+node;6306305098;0x130fb4f5f812ac43:0x71413c3b0978cb0;Kenneth Sound & Vision, Triq Sir Charles Cameron
+node;324401172;0x130fb4f6057a4911:0x469aa850b94a4836;Victoria Health Centre, Triq Enrico Mizzi, Victoria
+way;279319147;0x130fb4f67f58077f:0x74921e3bbf54a6ec;Triq it-8ta' Diċembru
+node;6303412727;0x130fb4f79dc2c565:0x7bf55319d7503c4c;deReday Gozo Homes, Triq ir-Repubblika 50, VCT 1016, Ir-Rabat (Victoria)
+node;5107620422;0x130fb4f7c679569b:0x66b5d5e48d43c91c;Coffee Break, Triq Putirjal
+way;404035321;0x130fb4f7d1fb53bb:0xed73b8ad261ff1a0;Ir-Rabat (Victoria)
+node;4678386489;0x130fb4f7ec7d3fc1:0xf8cf30fb6958a5c9;Palm Pharmacy, Triq Palma
+node;7084454421;0x130fb50bb37b2437:0x3a2a38fca44691f;Fiftyfour West Boutique Living / B&B, Triq Santu Pietru 54, GRB 1506, Gharb
+way;371590963;0x130fb5137aed6f2d:0xf5faa4c211a3e871;Marsalforn
+way;431052365;0x130fb51431ef81b3:0xbe21225efe599876;Nautic Team Gozo, Triq Ir-Rabat, MFN 1211, Marsalforn
+node;5651281121;0x130fb5143f2f08e7:0xf3b2a572f93226d1;Scuba Kings Diving Center, Triq Il-Port 46a
+node;5631431422;0x130fb515a743b8f9:0x3af4bcd1a998abb5;Latini Wine & Dine, Pjazza il-Vitorja, XRA 1012, Ix-Xagħra
+node;322061350;0x130fb515ba0a7d95:0x87dddc8f32849b78;Marsalforn Police Station, Triq il-Menqa 22, MFN 1050, Marsalforn
+node;322061347;0x130fb515bb87c441:0x4e1ade229ca5a2ea;Smuggler's Cave, Triq il-Menqa 22, Zebbug Ghawdex
+node;4472729511;0x130fb52cc7090049:0x3e167ef18ef017a7;Ramla Valley Extra Virgin Olive Oil, Triq ta Ghajn Qasab 5
+way;279319654;0x130fb56852d190fd:0x87d71e4a83b22268;SPCA, Ir-Rabat (Victoria)
+relation;13010742;0x130fb573a0c5e5f3:0xf5f5d2f2d730de7e;Xwejni Salt Pans, Triq ix-Xwejni
+way;221507589;0x130fb5a35f5c5177:0x4736145be2d6981f;Drew's Sicilia in Bocca | Maxtura Terrace, Triq Marsalforn, Iż-Żebbuġ
+way;584960046;0x130fb5b6cee0d143:0xd235bb22639ab963;Triq il-Maxrabija, GSR1250, L-Għasri
+way;277968186;0x130fb5bfd2e5435d:0xb6aede1e4936bf2;San Lawrenz Park, San Lawrenz
+way;33779121;0x130fb5caf4bf8409:0x2361ce7906f9971c;Basilica of the Blessed Virgin Of Ta' Pinu, GRB 104, Gharb
+way;512999017;0x130fb5d1e91c76a9:0xfb7a1cc78aa8bc64;Gharb
+node;6886683481;0x130fb5dce43c4ccb:0xe5bd70c226e29f97;Fieldend B&B, San Pietru street, Gharb
+node;6742582504;0x46b54a5a7d4ed1fd:0x932ad74a3f2e7e60;domodedovo, Triq l-Isperanza
+node;4943430964;0x47c0c4973b395b15:0xbc45fd9317e81195;Go, Paola
+node;5101337422;0x47c5e37e3bef4933:0xb5e624f5197f65bf;Black Cat Café, Triq l-Iskola 1
+node;2826224982;0x48693091a4e3367d:0x4b05e135f5c25f78;Pembroke
+node;7053248909;0x487604e08939064d:0x59887c6e6e215e84;REMAX, The Strand
+way;319355646;0x548f738bddb06171:0x38e8f3741ebb48ed;Victoria
+node;3344204806;0x808561c18242f01b:0x5733ef6fa6df1bc3;Topshop, Triq it-Torri
+node;5894539719;0x80857e9d8d0503f7:0x737666a7b46dddb1;Cinnabon, The Strand
+node;5755683222;0x80858066a8b9520d:0x47689ad2e32a0afe;The Chefs Table, Bajja
+way;741653866;0x8085808679110299:0x2607188167b0f1ef;Topaz Hotel, Triq Ċensu Tanti
+node;2899149614;0x808580884e6635b5:0xd24ceeb04cda0dc9;Embassy of France, Triq Melita 130
+node;5551754022;0x8085808929ede405:0x572b701792d36541;Trip Guci Pace, Triq Ġuże' Pace
+node;6799762216;0x8085809b49ae72d5:0xe8cfb60d1ebe7f27;Café Jubilee, The Strand
+way;365452448;0x808580c9dbbd6fcf:0x987a2bfedc89c62;Paola
+node;7188991293;0x808581108cee81cb:0x34e1a2ad5be73318;110
+way;773845021;0x808581737ddbce35:0xaca3debf3becf9e4;269
+way;394540474;0x808581f215b60ebb:0x235abe53a6a07df9;315
+way;248421395;0x80858500ed50deb3:0x9e6de65d14afcc75;Information centre and ranger station, Information station, Rama bay
+way;393558886;0x808f7fd5ab1c02bf:0xf614aab9f5507597;4
+node;7253124795;0x808f7fd7c4cdb4bb:0x5848b6659c59c9de;148
+node;7801044885;0x808f80b183b3d067:0x3eaabdb7467e9240;Cafe Teatro, Triq l-Ordinanza
+node;6016402085;0x808f9e875b6b5515:0x77313dd482614a13;Glamour Hair and Nails, San Silvestru
+way;52162247;0x808fcb67fe995555:0xf96183e928caa7bc;SDC Headquarters
+node;6644698685;0x80dd4ae5d53cf7db:0xc37525eaf8510bc8;The Brew, The Strand
+node;4813878426;0x812611d8e83c1d33:0x413c6b46ee1830fa;San Quintin Bakery, Triq Ċensu Borg
+way;342698116;0x8816d3501297c131:0x3c9f57ffc1d42ba5;Police Garage, Il-Foss Ta'Notre Dame
+node;7043230414;0x88388a870b71620b:0xe94a08098b3ebeca;L'Occitan en Provence, The Strand
+node;6659148697;0x89e3774849653997:0x901bed94ded57df2;Kebab Factory, Conception street
